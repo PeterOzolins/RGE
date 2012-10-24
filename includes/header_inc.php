@@ -4,10 +4,10 @@
                                     <a href="#">HOME</a>
                                 </li>
                                 <li>
-                                    <a href="#">EVENTS</a>
+                                    <a href="wedding.php">EVENTS</a>
                                 </li>
                                 <li>
-                                    <a href="#">PERFORMERS</a>
+                                    <a href="performers.php">PERFORMERS</a>
                                 </li>
                                 <li>
                                     <a href="#">PRE-PARTY</a>
