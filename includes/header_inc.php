@@ -7,7 +7,7 @@
                                     <a href="wedding.php">EVENTS</a>
                                 </li>
                                 <li>
-                                    <a href="performers.php">PERFORMERS</a>
+                                    <a href="performers.php">PERFORMERSx</a>
                                 </li>
                                 <li>
                                     <a href="#">PRE-PARTY</a>
