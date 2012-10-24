@@ -180,7 +180,7 @@ html, body {
 #contentContainerInner h2 {
     color: red;
 }
-#contentContainerInner .dark {
+.dark {
     color: #676767;
 }
 #contentContainerInner .light {
@@ -202,6 +202,41 @@ html, body {
 #contentBottomEdge {
     height: 75px;
 
+}
+/*###*/
+#allStarsGrid {
+    color: #676767;
+    margin-top: 80px;
+}
+#allStarsGrid ul {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#allStarsGrid ul li {
+    list-style: none;
+    float: left;
+    width: 300px;
+    height: 150px;
+    border: 1px solid red;
+    padding: 5px;
+    margin: 12px;
+    position: relative;
+    background-color: #bbb;
+}
+#allStarsGrid ul li h2 {
+    color: #676767;
+    bottom: 0;
+    position: absolute;
+    margin: 0 0 15px 15px;
+}
+#allStarsGrid h3 {
+    margin: 10px 0 5px;
+}
+/*###*/
+.midWidthLine {
+    width: 500px;
+    margin: 0;
 }
 ul#topMenu {
     list-style: none;

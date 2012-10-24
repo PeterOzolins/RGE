@@ -31,103 +31,47 @@
                         <!-- ### -->
                         <div id="contentContainer">
                             <div id="contentContainerInner">
-                                <div class="clearfix">
-                                </div>
-                                <div class="contentImageRight">
-                                </div>
+                                <div class="clearfix"></div>
                                 <h2>
-                                    The Vibe
-                                    <span class="dark">
-                                        What We Do
-                                    </span>
+                                    Meet <span class="dark">The Real Genius All Stars</span>
                                 </h2>
                                 <hr />
                                 <p>
-                                    You get one chance to celebrate your Bar/Bat-Mitzvah, Wedding, Corporate
-                                    Event, or special occasion.
+                                    Vitae vivamus, dictum feugiat dapibus orci ultrices tristique, felis orci diam eget massa massa libero. Ridiculus mauris pellentesque sollicitudin proin nunc in, tellus maecenas at accumsan velit, mauris a. 
                                 </p>
-                                <p>
-                                    <strong>
-                                        You want it done perfectly.
-                                    </strong>
-                                    With our focus on cutting edge entertainment, we always create an event
-                                    that's unique, different and customozed to your special requests.
-                                </p>
-                                <p>
-                                    With a staff of more than 20 performers, our
-                                    <strong>
-                                        Party Hosts, Pro-DGs, and Ineractive Dancers
-                                    </strong>
-                                    love coming up with ground-breaking and exiting ways to keep your party
-                                    going all night long!
-                                </p>
-                                <p>
-                                    Our persoal service is second to none. Our
-                                    <strong>
-                                        office staff, performers and event specialists
-                                    </strong>
-                                    will give you the most creative ideas, flexible pricing, and help along
-                                    the way to bring
-                                    <strong>
-                                        Real Genius
-                                    </strong>
-                                    to your nex special event.
-                                </p>
+
+                                <div id="allStarsGrid">
                                 <h3>
-                                    Plan It All With Us
+                                    DJ's AND EMCEES
                                 </h3>
-                                <hr />
-                                <div class="clearfix">
-                                </div>
-                                <div class="contentBottomBoxes">
+                                <hr class="midWidthLine" />
                                     <ul>
-                                        <li>
-                                            <div>
-                                            </div>
-                                            <h2 class="light">
-                                                Mitzvahs
-                                            </h2>
-                                            <p>
-                                                Wisi vestibulum. Dolor sed, sem integer vitae, ipsum quam non cras, feugiat
-                                                faucibus pede. Viverra sed sem aliquet sem.
-                                            </p>
-                                        </li>
-                                        <li>
-                                            <div>
-                                            </div>
-                                            <h2 class="light">
-                                                Weddings
-                                            </h2>
-                                            <p>
-                                                Amet purus, aliquip sit, dolor integer ut interdum praesent, mi cursus
-                                                nam tempor duis placerat volutpat. Duis non nec eu. mi cursus.
-                                            </p>
-                                        </li>
-                                        <li>
-                                            <div>
-                                            </div>
-                                            <h2 class="light">
-                                                Corporate
-                                            </h2>
-                                            <p>
-                                                Amet purus, aliquip sit, dolor integer ut interdum praesent, mi cursus
-                                                nam tempor duis placerat volutpat. Duis non nec eu dapibus. Tristique turpis.
-                                            </p>
-                                        </li>
-                                        <li>
-                                            <div>
-                                            </div>
-                                            <h2 class="light">
-                                                Special Events
-                                            </h2>
-                                            <p>
-                                                Viverra nec in hendrerit lorem vulputate, et est. Dolor nonummy. Volutpat
-                                                odio urna tellus laoreet malesuada, non
-                                            </p>
-                                        </li>
+                                        <li> <h2>Randy</h2> </li>
+                                        <li> <h2>Ninja</h2> </li>
+                                        <li> <h2>Vince</h2> </li>
+                                        <li> <h2>Mat</h2> </li>
+                                        <li> <h2>Josh</h2> </li>
+                                        <li> <h2>Jordan</h2> </li>
                                     </ul>
+                                    <div class="clearfix"></div>
+                                <h3>
+                                    DANCERS
+                                </h3>
+                                <hr class="midWidthLine" />
+                                    <ul>
+                                        <li> <h2>Randy</h2> </li>
+                                        <li> <h2>Ninja</h2> </li>
+                                        <li> <h2>Vince</h2> </li>
+                                        <li> <h2>Mat</h2> </li>
+                                        <li> <h2>Josh</h2> </li>
+                                        <li> <h2>Jordan</h2> </li>
+                                        <li> <h2>Jordan</h2> </li>
+                                        <li> <h2>Jordan</h2> </li>
+                                        <li> <h2>Jordan</h2> </li>
+                                    </ul>
+                                    <div class="clearfix">
                                 </div>
-                                <div class="clearfix">
+
                                 </div>
                             </div>
                             <div id="contentBottomEdge">
