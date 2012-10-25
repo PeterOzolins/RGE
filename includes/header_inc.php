@@ -4,16 +4,16 @@
                                     <a href="#">HOME</a>
                                 </li>
                                 <li>
-                                    <a href="wedding.php">EVENTS</a>
+                                    <a href="wedding.php">EVENT</a>
                                 </li>
                                 <li>
                                     <a href="performers.php">PERFORMERS</a>
                                 </li>
                                 <li>
-                                    <a href="#">PRE-PARTY</a>
+                                    <a href="enhancements.php">ENHANCEMENTS</a>
                                 </li>
                                 <li>
-                                    <a href="#">SHOUT OUTS</a>
+                                    <a href="#" class="active">SHOUT OUTS</a>
                                 </li>
                                 <li>
                                     <a href="#">CONTACT</a>
