@@ -259,6 +259,10 @@ ul#topMenu {
     text-decoration: none;
     padding: 0 0.8em;
     color: white;
+    padding: 10px;
+}
+#topMenu .active {
+    background-color: red;
 }
 /*=== wedding page ===*/
 .columnLeft {

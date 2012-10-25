@@ -10,10 +10,10 @@
                                     <a href="performers.php">PERFORMERS</a>
                                 </li>
                                 <li>
-                                    <a href="enhancements.php">ENHANCEMENTS</a>
+                                    <a href="enhancements.php" class="active">ENHANCEMENTS</a>
                                 </li>
                                 <li>
-                                    <a href="#" class="active">SHOUT OUTS</a>
+                                    <a href="#">SHOUT OUTS</a>
                                 </li>
                                 <li>
                                     <a href="#">CONTACT</a>
