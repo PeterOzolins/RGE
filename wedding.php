@@ -43,7 +43,7 @@
 
                                     <div class="columnLeftRow">
                                         <h3>Plan It All With Us</h3>
-                                        <div class="rowImage"></div>
+                                        <div class="rowImage"><img src="img/weddingDetailsRow.jpg" /></div>
                                         <p>
                                             Your MC focuses on your special moments. The Grand entrance, First Dance, Toasts, Cake cutting; just to start... Your DG specializes in playing the music you select, while mixing in an amazing blend of what keep your guests on the dance floor all night long.
                                         </p>
@@ -51,7 +51,7 @@
                                     </div>
                                     <div class="columnLeftRow">
                                         <h3>Event Scheduling</h3>
-                                        <div class="rowImage"></div>
+                                        <div class="rowImage"><img src="/img/weddingSchedulingRow.jpg" /></div>
                                         <p>
                                             We do it all!!!  We work with you closely to create the perfect timeline.  Your schedule will keep include all of your formalities & tie together lots of dancing and fun so your party is moving every second. We even coordinate all of the scheduling with your other vendors!
                                         </p>
@@ -59,7 +59,7 @@
                                     </div>
                                     <div class="columnLeftRow">
                                         <h3>Have It Your Way</h3>
-                                        <div class="rowImage"></div>
+                                        <div class="rowImage"><img src="img/weddingDetailsRow.jpg" /></div>
                                         <p>
                                             Every event we do is different and unique.  Our staff is the same.  With many performers to choose from, you will find the perfect team of MC & DJ to run your event with smooth precision.
                                         </p>
@@ -67,7 +67,7 @@
                                     </div>
                                     <div class="columnLeftRow">
                                         <h3>The Add-Ons</h3>
-                                        <div class="rowImage"></div>
+                                        <div class="rowImage"><img src="/img/weddingAdOnsRow.jpg" /></div>
                                         <p>
                                             Aside from music we also provide some incredible ADD-ONs for your special day...Photobooths, Uplighting, or a personalized mongram on the dance floor...It’s only the beginning of what we can provide.
                                         </p>
@@ -85,6 +85,8 @@
                                     </div>
                                     <div class="sideBox requestQuote">
                                         <h3>Request a Quote</h3>
+                                        <hr>
+                                        <p>make contact form</p>
                                     </div>
 
                                 </div>

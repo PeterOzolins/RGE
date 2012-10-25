@@ -95,6 +95,15 @@ textarea {
 html, body {
     background-color: black;
 }
+h2 {
+    margin-bottom: 0;
+}
+h3 {
+    margin-bottom: 0;
+}
+h4 {
+    margin: 0;
+}
 
 #bodyContainer {
     width: 100%;
@@ -257,9 +266,10 @@ ul#topMenu {
     float: left;
 }
 .weddingImageBig {
-    width: 640px;
-    height: 314px;
+    width: 641px;
+    height: 313px;
     border: 1px solid black;
+    background-image: url(/img/weddingImageBig.jpg)
 }
 .columnLeftRow {
 
