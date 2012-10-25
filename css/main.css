@@ -297,6 +297,9 @@ ul#topMenu {
 .requestQuote {
     background-color: #ddd;
 }
+.sideBox .active {
+    color: red;
+}
 
 /*==== footer ====*/
 #footer {
