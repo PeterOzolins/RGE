@@ -1,7 +1,7 @@
                         <div id="headerTop">
                             <ul id="topMenu">
                                 <li>
-                                    <a href="#">HOME</a>
+                                    <a href="index.php">HOME</a>
                                 </li>
                                 <li>
                                     <a href="wedding.php">EVENT</a>
