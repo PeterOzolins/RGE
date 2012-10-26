@@ -1,6 +1,6 @@
                         <div id="headerTop">
                             <div class="topMenuContainer">
-                                <ul id="topMenu">
+                                <ul id="topMenu" class="sf-menu">
                                     <li>
                                         <a href="index.php">HOME</a>
                                     </li>
