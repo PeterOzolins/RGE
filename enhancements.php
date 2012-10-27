@@ -18,7 +18,7 @@
                                     <div class="clearfix">
                                     </div>
                                     <h2>Enhancements Title</h2>
-                                    <hr />
+                                    <hr class="enhancementsTitleLine"/>
                                     <h4>ART & AIRBRUSH - UNIQUE STYLE EVERY TIME!</h4>
 
                                     <div class="columnLeftRow">
@@ -64,7 +64,7 @@
                                 <!-- ##end left column / start right column -->
 
                                 <div class="columnRight">
-                                    <div class="sideBox">
+                                    <div class="sideBox enhanceMenu">
                                         <h3>ENHANCEMENTS</h3>
                                         <hr>
                                         <p>Airbrush & Glitter Tattoos</p>

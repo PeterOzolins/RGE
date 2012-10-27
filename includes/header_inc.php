@@ -1,17 +1,17 @@
                         <div id="headerTop">
                             <div class="topMenuContainer">
                                 <ul id="topMenu" class="sf-menu">
-                                    <li>
+                                    <li class >
                                         <a href="index.php">HOME</a>
                                     </li>
                                     <li>
                                         <a href="wedding.php" class="active">EVENTS</a>
                                         <ul class="subMenu">
-                                            <li>Bar & Batmitzvahs</li>
-                                            <li class="subMenuActive">Weddings</li>
-                                            <li>Corporate</li>
-                                            <li>Birthdays</li>
-                                            <li>Schools</li>
+                                            <li><a href"#">Bar & Batmitzvahs</a></li>
+                                            <li><a href"#" class="subMenuActive">Weddings</a></li>
+                                            <li><a href"#">Corporate</a></li>
+                                            <li><a href"#">Birthdays</a></li>
+                                            <li><a href"#">Schools</a></li>
                                         </ul>
                                     </li>
                                     <li>
@@ -27,7 +27,7 @@
                                         <a href="#">CONTACT</a>
                                     </li>
                                 </ul>
-                            </div><!--end menu container-->
+                            </div>
                             <div class="clearfix"></div>
                             <div id="headerImage"></div>
                         </div>

@@ -19,6 +19,7 @@
         <link rel="stylesheet" type="text/css" href="css/superfish.css" media="screen">
         <script type="text/javascript" src="js/hoverIntent.js"></script>
         <script type="text/javascript" src="js/superfish.js"></script>
+        <script type="text/javascript" src="js/supersubs.js"></script>
         <script type="text/javascript">
 
         // initialise plugins

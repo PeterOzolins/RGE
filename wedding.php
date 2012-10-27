@@ -61,7 +61,7 @@
                                         <h3>Event Services</h3>
                                         <hr>
                                         <p>Bar & Batmitzvahs</p>
-                                        <p>Weddings</p>
+                                        <p class="subMenuActive">Weddings</p>
                                         <p>Corporate</p>
                                         <p>Birthdays</p>
                                         <p>Schools</p>
