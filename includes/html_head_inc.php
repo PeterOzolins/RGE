@@ -13,22 +13,9 @@
 
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-
+        <script src="js/vendor/modernizr-2.6.1.min.js"></script>
         <!-- SuperFish Menu -->
-        <link rel="stylesheet" type="text/css" href="css/superfish.css" media="screen">
-        <script type="text/javascript" src="js/hoverIntent.js"></script>
-        <script type="text/javascript" src="js/superfish.js"></script>
-        <script type="text/javascript" src="js/supersubs.js"></script>
-        <script type="text/javascript">
-
-        // initialise plugins
-        jQuery(function(){
-            jQuery('ul.sf-menu').superfish();
-        });
-
-        </script>
-
+        <link rel="stylesheet" type="text/css" href="/css/superfish.css" media="screen">
 
     </head>
     <body>
