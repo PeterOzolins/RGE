@@ -3,33 +3,22 @@ $(document).ready(function() {
 	var pageName = pagePath.substr(pagePath.lastIndexOf("/")+1);
 	console.log(pageName, "<+++ LOGGED");
 
-		//$("#topMenu a").removeClass(".active");
-	if(pageName != ""){
-
-		$("a.active").removeClass("active");
+		//$("a.active").removeClass("active");
 
 		switch(pageName){
+			case "":
+				$("a.pgHome").addClass("active");
+				break;
+			case "index.php":
+				$("a.pgHome").addClass("active");
+				break;
 			case "wedding.php":
-				console.log("make wedding active");
 				$("a.pgWedding").addClass("active");
+				break;
+			case "performers.php":
+				$("a.pgPerformers").addClass("active");
+				break;
+			case "enhancements.php":
+				$("a.pgEnhancements").addClass("active");
 		}
-
-	}
-
-	
-
-
-/*
-	$("#topMenu a").each(function(i) {
-		
-		if($(this).hasClass("active")){
-			alert($(this));
-			$(this).removeClass("active");
-		}
-		//if ($(this).hasClass(".active")) {
-		//	alert(this);
-		//}
-	});
-*/
-
 });

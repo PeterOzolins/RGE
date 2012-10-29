@@ -3,7 +3,7 @@
 
                                 <ul id="topMenu" class="sf-menu">
                                     <li>
-                                        <a href="index.php" class="active pgHome">HOME</a>
+                                        <a href="index.php" class="pgHome">HOME</a>
                                     </li>
                                     <li>
                                         <a href="wedding.php" class="pgWedding">EVENTS</a>
