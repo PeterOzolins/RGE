@@ -345,10 +345,6 @@ h4 {
 .enhancementsTitleLine {
     margin-bottom: 20px;
 }
-.requestQuote {
-    background-color: #ddd;
-    height: 450px;
-}
 .sideBox .active {
     color: red;
 }
@@ -395,6 +391,39 @@ h4 {
     background: grey;
     margin-right: 5px;
     border-radius: 5px;
+}/*=== contact form ===*/
+.requestQuote {
+    background-color: #ddd;
+}
+#requestQuoteForm {
+    font-size: 10px;
+    text-align: left;
+    padding: 5px
+;
+    margin: 10px 0px;
+}
+#requestQuoteForm input {
+    border: none;
+    margin: 8px 5px;
+}
+#requestQuoteForm select {
+    margin: 8px 5px;
+    width: 130px;
+}
+#requestQuoteForm .nameBox {
+    width: 90px;
+}
+#requestQuoteForm .phoneBox {
+    width: 53px;
+}
+#requestQuoteForm .partyDateBox {
+    width: 152px;
+}
+#requestQuoteForm .emailBox {
+    width: 195px;
+}
+#requestQuoteForm .guestBox {
+    width: 220px;
 }
 
 /* ==========================================================================

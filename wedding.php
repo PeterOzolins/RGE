@@ -69,7 +69,24 @@
                                     <div class="sideBox requestQuote">
                                         <h3>Request a Quote</h3>
                                         <hr>
-                                        <p>make contact form</p>
+                                        <form id="requestQuoteForm">
+                                            NAME*: <input type="text" class="nameBox"><input type="text" class="nameBox"><br />
+                                            PHONE*: <input type="text" class="phoneBox"><input type="text" class="phoneBox"><input type="text" class="phoneBox"><br />
+                                            EMAIL: <input type="text" class="emailBox"><br />
+                                            PARTY DATE: <input type="text" class="partyDateBox"><br />
+                                            TIME OF EVENT: <select>
+                                                    <option value="Afternoon">Afternoon</option>
+                                                    <option value="Evening">Evening</option>
+                                                </select><br />
+                                            TYPE OF EVENT: <select>
+                                                    <option value="Bar-Mitzvah">Bar-Mitzvah</option>
+                                                    <option value="Wedding">Wedding</option>
+                                                </select><br />
+                                            GUESTS OF HONOR:<br />
+                                            <input type="text" class="guestBox"><br />
+                                            <input type="submit" value="LETS DO IT!">
+                                            <input type="reset" value="LETS NOT DO IT">
+                                        </form>
                                     </div>
 
                                 </div>
