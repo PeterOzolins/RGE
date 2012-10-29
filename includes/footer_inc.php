@@ -47,5 +47,10 @@
                                 Office Hours<br>
                                 Mon - Fri 10am - Late
                             </p>
+                            <ul class="socialIcons">
+                                <li></li>
+                                <li></li>
+                                <li></li>
+                            </ul>
                         </div>
                     </div>

@@ -67,9 +67,9 @@
                                         <li>
                                             <div>
                                             </div>
-                                            <h2 class="light">
+                                            <h3 class="light">
                                                 Mitzvahs
-                                            </h2>
+                                            </h3>
                                             <p>
                                                 Wisi vestibulum. Dolor sed, sem integer vitae, ipsum quam non cras, feugiat
                                                 faucibus pede. Viverra sed sem aliquet sem.
@@ -78,9 +78,9 @@
                                         <li>
                                             <div>
                                             </div>
-                                            <h2 class="light">
+                                            <h3 class="light">
                                                 Weddings
-                                            </h2>
+                                            </h3>
                                             <p>
                                                 Amet purus, aliquip sit, dolor integer ut interdum praesent, mi cursus
                                                 nam tempor duis placerat volutpat. Duis non nec eu. mi cursus.
@@ -89,9 +89,9 @@
                                         <li>
                                             <div>
                                             </div>
-                                            <h2 class="light">
+                                            <h3 class="light">
                                                 Corporate
-                                            </h2>
+                                            </h3>
                                             <p>
                                                 Amet purus, aliquip sit, dolor integer ut interdum praesent, mi cursus
                                                 nam tempor duis placerat volutpat. Duis non nec eu dapibus. Tristique turpis.
@@ -100,9 +100,9 @@
                                         <li>
                                             <div>
                                             </div>
-                                            <h2 class="light">
+                                            <h3 class="light">
                                                 Special Events
-                                            </h2>
+                                            </h3>
                                             <p>
                                                 Viverra nec in hendrerit lorem vulputate, et est. Dolor nonummy. Volutpat
                                                 odio urna tellus laoreet malesuada, non

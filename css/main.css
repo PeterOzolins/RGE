@@ -91,6 +91,14 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+@font-face {
+    font-family: suiGeneris;
+    src: url(/sui_generis_ot/sui_generis_rg.otf);
+}
+@font-face {
+    font-family: suiGenerisBold;
+    src: url(/sui_generis_ot/sui_generis_bd.otf);
+}
 
 html, body {
     background-color: black;
@@ -100,6 +108,7 @@ h2 {
 }
 h3 {
     margin-bottom: 0;
+    font-family: suiGeneris;
 }
 h4 {
     margin: 0;
@@ -189,9 +198,14 @@ h4 {
 #contentContainerInner h2 {
     color: red;
     line-height: 1.2em;
+    font-family: suiGeneris;
+    font-weight: normal;
 }
 .dark {
     color: #676767;
+}
+.red {
+    color: red;
 }
 #contentContainerInner .light {
     color: white;
@@ -343,7 +357,7 @@ h4 {
 }
 #footer div {
     float: left;
-    margin: 0 50px;
+    margin: 0 40px;
 }
 #footer div:first-child {
     margin-left: 0;
@@ -351,16 +365,30 @@ h4 {
 #footer div:last-child {
     margin-right: 0;
     float: right;
+    margin-top: 30px;
 }
 #footer h4 {
     color: red;
     font-size: 18px;
+    font-family: suiGeneris;
 }
 #footer h4.contact {
     font-size: 20px;
 }   
 #footer p {
     margin: 5px 0;
+}
+.socialIcons {
+    padding: 0;
+}
+.socialIcons li {
+    float: left;
+    list-style: none;
+    width: 40px;
+    height: 40px;
+    background: grey;
+    margin-right: 5px;
+    border-radius: 5px;
 }
 
 /* ==========================================================================
