@@ -17,7 +17,7 @@
                                 <div class="columnLeft">
                                     <div class="clearfix">
                                     </div>
-                                    <h2>Your Perfcet Day</h2>
+                                    <h2>Your Perfect Day</h2>
                                     <h4>Your ceremony, your reception, your music.</h4>
                                     <hr />
                                     <div class="weddingImageBig"></div>
@@ -36,7 +36,7 @@
                                         <h3>Event Scheduling</h3>
                                         <div class="rowImage"><img src="/img/weddingSchedulingRow.jpg" /></div>
                                         <p>
-                                            We do it all!!!  We work with you closely to create the perfect timeline.  Your schedule will keep include all of your formalities & tie together lots of dancing and fun so your party is moving every second. We even coordinate all of the scheduling with your other vendors!
+                                            We do it all!!!  We work with you closely to create the perfect time-line.  Your schedule will keep include all of your formalities & tie together lots of dancing and fun so your party is moving every second. We even coordinate all of the scheduling with your other vendors!
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>
@@ -52,7 +52,7 @@
                                         <h3>The Add-Ons</h3>
                                         <div class="rowImage"><img src="/img/weddingAdOnsRow.jpg" /></div>
                                         <p>
-                                            Aside from music we also provide some incredible ADD-ONs for your special day...Photobooths, Uplighting, or a personalized mongram on the dance floor...It’s only the beginning of what we can provide.
+                                            Aside from music we also provide some incredible ADD-ONs for your special day...Photobooths, Uplighting, or a personalized monogram on the dance floor...It’s only the beginning of what we can provide.
                                         </p>
                                     </div>
                                 </div>
