@@ -18,7 +18,7 @@ textarea {
 }
 
 body {
-    font-size: 1em;
+    font-size: 0.9em;
     line-height: 1.4;
 }
 
@@ -47,7 +47,7 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
-    margin: 0;
+    margin: 0 0 8px;
     padding: 0;
 }
 
@@ -102,6 +102,7 @@ textarea {
 
 html, body {
     background-color: black;
+    font-family: helvetica, arial;
 }
 h2 {
     margin-bottom: 0;
@@ -109,12 +110,17 @@ h2 {
 h3 {
     margin-bottom: 0;
     font-family: suiGeneris;
+    font-weight: normal;
 }
 h4 {
     margin: 0;
     color: #222;
+    font-weight: normal;
 }
-
+p {
+    font-size: .9em;
+    margin: 0;
+}
 #bodyContainer {
     width: 100%;
     background-color: #000;
@@ -135,7 +141,7 @@ h4 {
 }
 #headerBottom {
     width: 100%;
-    height: 63px;
+    height: 52px;
     background-color: red;
     font-size: 24px;
     text-align: left;
@@ -147,8 +153,8 @@ h4 {
     margin: 0 auto;
 }
 #headerBottomInner p {
-    margin: 18px 0px;
-    font-size: 24px;
+    margin: 15px 0px;
+    font-size: 20px;
 }
 #headerBottomInnerLeft {
     float: left;
@@ -165,7 +171,7 @@ h4 {
 #contentContainerInner {
     width: 950px;
     margin: 0 auto;
-    font-size: 20px;
+    font-size: 18px;
 }
 .contentImageRight {
     float: right;
@@ -198,7 +204,7 @@ h4 {
 }
 #contentContainerInner h2 {
     color: red;
-    line-height: 1.2em;
+    line-height: 1em;
     font-family: suiGeneris;
     font-weight: normal;
 }
@@ -279,12 +285,13 @@ h4 {
     background: black;
 }
 #topMenu li a {
-    padding: 12px 12px;
+    padding: 6px 12px;
     color: white;
     line-height: 1.3em;
     border: none;
     text-align: center;
     cursor: pointer;
+    font-size: 14px;
 }
 #topMenu li a:hover {
     background-color: transparent;
@@ -311,6 +318,9 @@ h4 {
     width: 640px;
     float: left;
 }
+.columnLeft p {
+    margin-top: 0;
+}
 .weddingImageBig {
     width: 641px;
     height: 308px;
@@ -323,6 +333,7 @@ h4 {
 }
 .columnLeftRow p {
     margin: 0;
+    font-size: 0.9em;
 }
 .rowImage {
     float: left;
@@ -332,6 +343,7 @@ h4 {
 }
 .columnRight {
     float: right;
+    margin-top: -68px;
 }
 .sideBox {
     width: 270px;
@@ -339,6 +351,10 @@ h4 {
     border-radius: 3px;
     margin-top: 150px;
     text-align: center;
+    font-size: 0.9em;
+}
+.sideBox p {
+    margin: 15px 0;
 }
 .enhanceMenu {
     margin-top: 60px;
@@ -394,7 +410,7 @@ h4 {
     border-radius: 5px;
 }/*=== contact form ===*/
 .requestQuote {
-    background-color: #ddd;
+    background-color: #eee;
 }
 #requestQuoteForm {
     font-size: 10px;
