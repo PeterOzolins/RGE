@@ -179,6 +179,7 @@ p {
     width: 950px;
     margin: 0 auto;
     font-size: 18px;
+    position: relative;
 }
 .contentImageRight {
     float: right;
@@ -343,6 +344,10 @@ p {
 .columnLeft p {
     margin-top: 0;
 }
+.columnLeft h3 {
+    font-size: 0.9em;
+    margin-bottom: 8px;
+}
 .weddingImageBig {
     width: 641px;
     height: 308px;
@@ -359,7 +364,6 @@ p {
 }
 .rowImage {
     float: left;
-    border: 1px solid black;
     margin-right: 15px;
     background-color: grey;
 }
