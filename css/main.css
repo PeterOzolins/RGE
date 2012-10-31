@@ -170,6 +170,12 @@ p {
     background-color: #fff;
     color: #676767;
 }
+#contentContainer.homePage {
+    background-image: url(/img/home-body-swirl-bg.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+   
+}
 #contentContainerInner {
     width: 950px;
     margin: 0 auto;

@@ -12,7 +12,7 @@
 
                         <!-- END HEADER -->
                         <!-- ### -->
-                        <div id="contentContainer">
+                        <div id="contentContainer" class="homePage">
                             <div id="contentContainerInner">
                                 <div class="clearfix">
                                 </div>
