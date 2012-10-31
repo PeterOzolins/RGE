@@ -64,8 +64,7 @@
                                 <div class="contentBottomBoxes">
                                     <ul>
                                         <li>
-                                            <div>
-                                            </div>
+                                            <div class="mitzvahs"></div>
                                             <h3 class="light">
                                                 Mitzvahs
                                             </h3>
@@ -75,8 +74,7 @@
                                             </p>
                                         </li>
                                         <li>
-                                            <div>
-                                            </div>
+                                            <div class="weddings"></div>
                                             <h3 class="light">
                                                 Weddings
                                             </h3>
@@ -86,8 +84,7 @@
                                             </p>
                                         </li>
                                         <li>
-                                            <div>
-                                            </div>
+                                            <div class="corporate"></div>
                                             <h3 class="light">
                                                 Corporate
                                             </h3>
@@ -97,8 +94,7 @@
                                             </p>
                                         </li>
                                         <li>
-                                            <div>
-                                            </div>
+                                            <div class="specialEvents"></div>
                                             <h3 class="light">
                                                 Special Events
                                             </h3>

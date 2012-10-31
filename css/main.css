@@ -235,9 +235,21 @@ p {
     margin-right: 0;
 }
 .contentBottomBoxes ul li div {
-    height: 130px;
+    height: 132px;
     background-color: #000;
     border: 1px solid red;
+}
+.contentBottomBoxes .mitzvahs {
+    background: url(/img/home-mitzvah.png);    
+}
+.contentBottomBoxes .weddings {
+    background: url(/img/home-weddings.png);
+}
+.contentBottomBoxes .corporate {
+    background: url(/img/home-corporate.png);
+}
+.contentBottomBoxes .specialEvents{
+    background: url(/img/home-special-event.png);
 }
 #contentBottomEdge {
     height: 75px;
