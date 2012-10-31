@@ -52,6 +52,7 @@
                                         <p>
                                             Aside from music we also provide some incredible ADD-ONs for your special day...Photobooths, Uplighting, or a personalized mongram on the dance floor...It’s only the beginning of what we can provide.
                                         </p>
+                                        <div class="clearfix"></div>
                                     </div>
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/weddingAdOnsRow.jpg" /></div>
