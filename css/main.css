@@ -307,7 +307,7 @@ p {
 #topMenu .subMenu li {
     float: none;
     right: 0;
-    background: rgba(255, 0, 0, 0.8);
+    background: rgba(255, 0, 0, 0.9);
 }
 .subMenuActive{
     color: black !important;
