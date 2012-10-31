@@ -30,7 +30,9 @@
                                 </ul>
                             </div>
                             <div class="clearfix"></div>
-                            <div id="headerImage"></div>
+                            <div id="headerImage">
+                                <img src="/img/home-top-borderline.png">
+                            </div>
                         </div>
                         <div id="headerBottom">
                             <div id="headerBottomInner">
