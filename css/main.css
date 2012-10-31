@@ -44,11 +44,13 @@ body {
 
 hr {
     display: block;
-    height: 1px;
-    border: 0;
+    height: 0px;
+    border: none;
     border-top: 1px solid #ccc;
-    margin: 0 0 8px;
+    margin: 0 auto 8px;
     padding: 0;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 /*
@@ -346,7 +348,7 @@ p {
     margin-top: -68px;
 }
 .sideBox {
-    width: 270px;
+    width: 277px;
     border: 2px solid grey;
     border-radius: 3px;
     margin-top: 150px;
@@ -355,6 +357,12 @@ p {
 }
 .sideBox p {
     margin: 15px 0;
+}
+.sideBox hr {
+    width: 231px;
+    height: 5px;
+    background-image: url(/img/right-column-underline-fade.png);
+    border: none;
 }
 .enhanceMenu {
     margin-top: 115px;
@@ -410,7 +418,9 @@ p {
     border-radius: 5px;
 }/*=== contact form ===*/
 .requestQuote {
-    background-color: #eee;
+    background: url(/img/form-bg.png);
+    background-repeat: repeat;
+    height: 426px;
 }
 #requestQuoteForm {
     font-size: 10px;
