@@ -56,12 +56,11 @@
                                     </strong>
                                     to your nex special event.
                                 </p>
-                                <h3>
+                                <div class="clearfix"></div>
+                                <h3 class="noMargin">
                                     Plan It All With Us
                                 </h3>
                                 <hr />
-                                <div class="clearfix">
-                                </div>
                                 <div class="contentBottomBoxes">
                                     <ul>
                                         <li>
