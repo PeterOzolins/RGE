@@ -23,6 +23,7 @@ $(document).ready(function() {
 		}
 
 	$('h2, h3').each(function(thisElement) {
+		
 		var heading = $(this).text();
 		var headingWords = heading.split(" ");
 		var newHeading = "";
