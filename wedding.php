@@ -7,7 +7,7 @@
         <!-- Add your site or application content here -->
                     <div id="bodyContainer">
                         <?php
-                            include("includes/header_inc.php");
+                            include("includes/header_wedding_inc.php");
                         ?>
 
                         <!-- END HEADER -->
