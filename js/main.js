@@ -21,4 +21,21 @@ $(document).ready(function() {
 			case "enhancements.php":
 				$("a.pgEnhancements").addClass("active");
 		}
+
+	$('h2, h3').each(function(thisElement) {
+		var heading = $(this).text();
+		var headingWords = heading.split(" ");
+		var newHeading = "";
+		var firstLetterTemp = "";
+		var restOfWordTemp = "";
+		var i = 0;
+
+		for (i = 0; i <= headingWords.length-1; i++) {
+			firstLetterTemp = headingWords[i].substr(0, 1);
+			restOfWordTemp = headingWords[i].substr(1,headingWords[i].length);
+			newHeading += "<span class='iCaps'>" + firstLetterTemp + "</span>" + restOfWordTemp + " ";
+		}
+
+		$(this).html(newHeading);
+	});
 });

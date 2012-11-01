@@ -108,11 +108,13 @@ html, body {
 }
 h2 {
     margin-bottom: 0;
+    text-transform: uppercase;
 }
 h3 {
     margin-bottom: 0;
     font-family: suiGeneris;
     font-weight: normal;
+    text-transform: uppercase;
 }
 h4 {
     margin: 0;
@@ -122,6 +124,12 @@ h4 {
 p {
     font-size: .9em;
     margin: 0;
+}
+h3 .iCaps {
+    font-size: 1.2em;
+}
+h2 .iCaps {
+    font-size: 1.4em;
 }
 #bodyContainer {
     width: 100%;
@@ -217,6 +225,7 @@ p {
     line-height: 1em;
     font-family: suiGeneris;
     font-weight: normal;
+    text-transform: uppercase;
 }
 .dark {
     color: #676767;
@@ -229,6 +238,7 @@ p {
 }
 #contentContainerInner .light {
     color: white;
+    font-size: 0.9em;
 }
 
 .contentBottomBoxes ul li:first-child {
@@ -447,11 +457,12 @@ p {
 }
 #footer h4 {
     color: red;
-    font-size: 18px;
+    font-size: 16px;
     font-family: suiGeneris;
+    text-transform: none;
 }
 #footer h4.contact {
-    font-size: 20px;
+    font-size: 18px;
 }   
 #footer p {
     margin: 5px 0;

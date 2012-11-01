@@ -19,11 +19,7 @@
                                     </div>
                                     <h2>Enhancements Title</h2>
                                     <hr class="enhancementsTitleLine"/>
-                                    <h3>
-                                        <a name="airbrush">
-                                            ART &amp; AIRBRUSH - UNIQUE STYLE EVERY TIME!
-                                        </a>
-                                    </h3>
+                                    <h3><a name="airbrush">ART & AIRBRUSH - UNIQUE STYLE EVERY TIME!</a></h3>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="img/enhancements-airbrush1.jpg" /></div>
