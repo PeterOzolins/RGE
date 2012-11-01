@@ -16,7 +16,9 @@
         <script src="js/vendor/modernizr-2.6.1.min.js"></script>
         <!-- SuperFish Menu -->
         <link rel="stylesheet" type="text/css" href="/css/superfish.css" media="screen">
-
+        <!-- Slideshow -->
+        <link rel="stylesheet" href="css/global.css">
+        
     </head>
     <body>
         <!--[if lt IE 7]>
