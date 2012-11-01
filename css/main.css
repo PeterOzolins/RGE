@@ -140,6 +140,7 @@ p {
     background-image: url("/img/rge_header_3.jpg");
     background-position: top;
     background-repeat: no-repeat;
+    position: relative;
 }
 #headerBottom {
     width: 100%;
@@ -153,6 +154,7 @@ p {
     width: 1000px;
     font-weight: bold;
     margin: 0 auto;
+    position: relative;
 }
 #headerBottomInner p {
     margin: 15px 0px;
@@ -292,10 +294,25 @@ p {
     margin: 0;
 }
 /*### top menu ###*/
-.topMenuContainer {
-    width: 950px;
+#topHeadBorderline {
+    width: 1000px;
+
+    top: -11px;
+    position: absolute;
+}
+#midHeadBorderline {
+    width: 1000px;
+    
+    position: absolute;
+    bottom: -6px;
+}
+#bottomHeadBorderline {
+    width: 1000px;
+    
     position: relative;
-    margin: 0 auto;
+}
+.topMenuContainer {
+    width: 870px;
 }
 #topMenu {
     list-style: none;
