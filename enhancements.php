@@ -19,7 +19,11 @@
                                     </div>
                                     <h2>Enhancements Title</h2>
                                     <hr class="enhancementsTitleLine"/>
-                                    <h3>ART &amp; AIRBRUSH - UNIQUE STYLE EVERY TIME!</h3>
+                                    <h3>
+                                        <a name="airbrush">
+                                            ART &amp; AIRBRUSH - UNIQUE STYLE EVERY TIME!
+                                        </a>
+                                    </h3>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="img/enhancements-airbrush1.jpg" /></div>
@@ -39,7 +43,11 @@
                                         <div class="clearfix"></div>
                                     </div>
 
-                                    <h3>GAME STATIONS - START YOUR ENGINES!</h3>
+                                    <h3>
+                                        <a name="gameStations"> 
+                                            GAME STATIONS - START YOUR ENGINES!
+                                        </a>
+                                    </h3>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="img/enhancements-guitar-hero.jpg" /></div>
@@ -108,7 +116,10 @@
                                         <div class="clearfix"></div>
                                     </div>
 
-                                    <h3>PHOTO OPPS! &mdash; WE GO BIG!!!</h3>
+                                    <h3>
+                                        <a name="photoOp">PHOTO OPPS! &mdash; WE GO BIG!!!
+                                        </a>
+                                    </h3>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-greenscreen.jpg" /></div>
@@ -135,7 +146,11 @@
                                         <div class="clearfix"></div>
                                     </div>
 
-                                    <h3>GAME SHOW EXPERIENCE</h3>
+                                    <h3>
+                                        <a name="gameShow">
+                                            GAME SHOW EXPERIENCE
+                                        </a>
+                                    </h3>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-game-show.jpg" /></div>
@@ -146,7 +161,11 @@
                                         <div class="clearfix"></div>
                                     </div>
 
-                                    <h3>MISSING A TITLE!!!</h3>
+                                    <h3>
+                                        <a name="missingTitle">
+                                            MISSING A TITLE!!!
+                                        </a>
+                                    </h3>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-projector.jpg" /></div>
@@ -157,7 +176,12 @@
                                         <div class="clearfix"></div>
                                     </div>
 
-                                    <h3>TRANSFORM YOUR ROOM!!!</h3>
+                                    <h3>
+                                        <a name="transformRoom">
+                                            TRANSFORM YOUR ROOM!!!
+                                        </a>
+                                    </h3>
+
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-uplighting.jpg" /></div>
                                         <h4>Uplighting</h4>
@@ -173,12 +197,24 @@
                                     <div class="sideBox enhanceMenu">
                                         <h3>ENHANCEMENTS</h3>
                                         <hr>
-                                        <p>Airbrush & Glitter Tattoos</p>
-                                        <p class="active">Airbrush Shirts & Hats</p>
-                                        <p>Game Stations</p>
-                                        <p>GreenScreen Photos</p>
-                                        <p>Photobooths</p>
-                                        <p>Giveaways</p>
+                                        <p><a href="#airbrush">
+                                                Airbrush & Glitter Tattoos
+                                        </a></p>
+                                        <p><a href="#gameStations">
+                                                Game Stations
+                                        </a></p>
+                                        <p><a href="#photoOp">
+                                            Photo Opps
+                                        </a></p>
+                                        <p><a href="#gameShow">
+                                            Hameshow
+                                        </a></p>
+                                        <p><a href="#missingTitle">
+                                            Missing Title
+                                        </a></p>
+                                        <p><a href="#transformRoom">
+                                            Transform your Room
+                                        </a></p>
                                         <p>Montage Production</p>
                                         <p>LED Lighting</p>
                                     </div>

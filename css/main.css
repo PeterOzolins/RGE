@@ -381,6 +381,7 @@ p {
 }
 .sideBox p {
     margin: 15px 0;
+
 }
 .sideBox hr {
     width: 231px;
@@ -390,6 +391,14 @@ p {
 }
 .enhanceMenu {
     margin-top: 115px;
+}
+.enhanceMenu a {
+    color: #676767;
+    text-decoration: none;
+}
+.enhanceMenu a:hover {
+    color: red;
+    font-weight: bold;
 }
 .enhancementsTitleLine {
     margin-bottom: 20px;
