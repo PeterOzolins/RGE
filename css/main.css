@@ -163,6 +163,7 @@ h2 .iCaps {
     font-weight: bold;
     margin: 0 auto;
     position: relative;
+    -webkit-text-stroke: 1px black;
 }
 #headerBottomInner p {
     margin: 15px 0px;
