@@ -310,6 +310,7 @@ p {
     width: 1000px;
     
     position: relative;
+    bottom: 22px;
 }
 .topMenuContainer {
     width: 870px;
