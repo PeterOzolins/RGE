@@ -60,11 +60,11 @@
                                     <div class="sideBox">
                                         <h3>Event Services</h3>
                                         <hr>
-                                        <p>Bar & Batmitzvahs</p>
-                                        <p class="subMenuActive">Weddings</p>
-                                        <p>Corporate</p>
-                                        <p>Birthdays</p>
-                                        <p>Schools</p>
+                                        <p><a href="#">Bar & Batmitzvahs</a></p>
+                                        <p><a href="#" class="subMenuActive">Weddings</a></p>
+                                        <p><a href="#">Corporate</a></p>
+                                        <p><a href="#">Birthdays</a></p>
+                                        <p><a href="#">Schools</a></p>
                                     </div>
                                     <div class="sideBox requestQuote">
                                         <h3>Request a Quote</h3>

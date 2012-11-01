@@ -410,11 +410,11 @@ p {
 .enhanceMenu {
     margin-top: 115px;
 }
-.enhanceMenu a {
+.sideBox a {
     color: #676767;
     text-decoration: none;
 }
-.enhanceMenu a:hover {
+.sideBox a:hover {
     color: red;
     font-weight: bold;
 }
