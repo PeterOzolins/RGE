@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	
+	<title>Slides, A Slideshow Plugin for jQuery</title>
+	
+	<link rel="stylesheet" href="/css/global.css">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+	<script src="/js/slides.min.jquery.js"></script>
+	<script>
+		$(function(){
+			$('#slides').slides({
+				preload: true,
+				preloadImage: 'img/ss_img/loading.gif',
+				play: 8000,
+				pause: 500,
+				hoverPause: true,
+				slideSpeed: 800,
+				fadeSpeed: 500,
+				animationStart: function(current){
+					$('.caption').animate({
+						bottom:-120 //how far down caption slides when changing
+					},200); //rate caption slides down
+					if (window.console && console.log) {
+						// example return of current slide number
+						console.log('animationStart on slide: ', current);
+					};
+				},
+				animationComplete: function(current){
+					$('.caption').animate({
+						bottom:0//how far up caption slides
+					},400);//rate caption slides back up
+					if (window.console && console.log) {
+						// example return of current slide number
+						console.log('animationComplete on slide: ', current);
+					};
+				},
+				slidesLoaded: function() {
+					$('.caption').animate({
+						bottom:0 //height of caption when first loads
+					},200);
+				}
+			});
+		});
+	</script>
+</head>
+<body>
+	<div id="container">
+		<div id="example">
+			<div id="slides">
+				<div class="slides_container">
+					<div class="slide">
+						<img src="/img/ss_img/wedding-slide1.jpg" width="405" height="232" alt="Slide 1">
+						<div class="caption" style="bottom:0">
+							<p>If you want your wedding to be the party of the year, look no further than Randy at Real genius Entertainment.  He made our party the WEDDING OF THE CENTURY!!! Non-stop music, fun, dancing, and an all around AWESOME time.<br>
+								&mdash;Andrew and Jennifer K.</p>
+						</div>
+					</div>
+					<div class="slide">
+						<img src="/img/ss_img/wedding-slide4.jpg" width="405" height="232" alt="Slide 2">
+						<div class="caption">
+							<p>I just wanted to thank you for your services on our wedding and providing the best MC & DJ EVER!!!  Jordan and Matt were amazing the entire night!  Every single guest was up there dancing and there was never a dull moment.  I can’t tell you the number of guests still calling and telling us how much fun they had.<br>
+								&mdash;John and Melanie W.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<img src="/img/ss_img/example-frame.png" width="429" height="256" alt="Example Frame" id="frame">
+		</div>
+	</div>
+</body>
+</html>
