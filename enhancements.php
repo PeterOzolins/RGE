@@ -97,7 +97,7 @@
                                     </div>
 
                                     <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/weddingAdOnsRow.jpg" /></div>
+                                        <div class="rowImage"><img src="/img/enhancements-rock-band.jpg" /></div>
                                         <h4>Rockband</h4>
                                         <p>
                                             Get ready to be famous!  Guitar, drums, & micrphone.  Up to 4, 'Rock Out' in front of a live audience!  (2-4 players)

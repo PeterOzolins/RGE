@@ -323,6 +323,10 @@ h2 .iCaps {
     margin: 0;
 }
 /*### top menu ###*/
+.subMenu hr {
+    width: 80%;
+    margin: 0 auto;
+}
 #topHeadBorderline {
     width: 1000px;
 
@@ -435,6 +439,7 @@ h2 .iCaps {
     background-image: url(/img/right-column-underline-fade.png);
     border: none;
 }
+
 .enhanceMenu {
     margin-top: 115px;
 }
