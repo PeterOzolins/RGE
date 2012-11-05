@@ -11,7 +11,7 @@
 .sf-menu ul {
 	position:		absolute;
 	top:			-999em;
-	width:			10em; /* left offset of submenus need to match (see below) */
+	width: 14em; /* left offset of submenus need to match (see below) */
 }
 .sf-menu ul li {
 	width:			100%;
@@ -30,7 +30,7 @@
 .sf-menu li:hover ul,
 .sf-menu li.sfHover ul {
 	left:			0;
-	top: 2.9em; /* match top ul list item height */
+	top: 2.2em; /* match top ul list item height */
 	z-index:		99;
 }
 ul.sf-menu li:hover li ul,

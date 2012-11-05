@@ -20,14 +20,14 @@
                                     <li>
                                         <a href="enhancements.php" class="pgEnhancements">ENHANCEMENTS</a>
                                         <ul class="subMenu">
-                                            <li><a href="#">Airbrush &amp; Glitter Tattoos</a></li>
-                                            <li><a href="#">Airbrush Shirts & Hats</a></li>
-                                            <li><a href="#">Game Stations</a></li>
-                                            <li><a href="#">Green Screen Photos</a></li>
-                                            <li><a href="#">Photobooths</a></li>
-                                            <li><a href="#">Giveaways</a></li>
-                                            <li><a href="#">Montage Production</a></li>
-                                            <li><a href="#">LED Lighting</a></li>
+                                            <li><a href="/enhancements.php#airbrush">Airbrush &amp; Glitter Tattoos</a></li>
+                                            <li><a href="/enhancements.php#">Airbrush Shirts & Hats</a></li>
+                                            <li><a href="/enhancements.php#gameStations">Game Stations</a></li>
+                                            <li><a href="/enhancements.php#">Green Screen Photos</a></li>
+                                            <li><a href="/enhancements.php#photoOp">Photobooths</a></li>
+                                            <li><a href="/enhancements.php#">Giveaways</a></li>
+                                            <li><a href="/enhancements.php#">Montage Production</a></li>
+                                            <li><a href="/enhancements.php#transformRoom">LED Lighting</a></li>
                                         </ul>
 
                                     </li>

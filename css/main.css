@@ -106,15 +106,21 @@ html, body {
     background-color: black;
     font-family: helvetica, arial;
 }
-h2 {
+f {
     margin-bottom: 0;
     text-transform: uppercase;
+}
+h2 {
+    font-variant: small-caps;
+    font-family: suiGeneris;
+    font-weight: normal;
 }
 h3 {
     margin-bottom: 0;
     font-family: suiGeneris;
     font-weight: normal;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
+    font-variant: small-caps;
 }
 h4 {
     margin: 0;
@@ -235,9 +241,10 @@ h2 .iCaps {
 #contentContainerInner h2 {
     color: red;
     line-height: 1em;
+    font-size: 35px;
     font-family: suiGeneris;
     font-weight: normal;
-    text-transform: uppercase;
+    margin-bottom: 0;
 }
 .dark {
     color: #676767;
@@ -385,7 +392,6 @@ h2 .iCaps {
     margin-top: 0;
 }
 .columnLeft h3 {
-    font-size: 0.9em;
     margin-bottom: 8px;
 }
 .weddingImageBig {

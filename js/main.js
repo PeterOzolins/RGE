@@ -22,6 +22,7 @@ $(document).ready(function() {
 				$("a.pgEnhancements").addClass("active");
 		}
 
+	/*
 	$('h2, h3').each(function(thisElement) {
 		
 		var heading = $(this).text();
@@ -39,4 +40,5 @@ $(document).ready(function() {
 
 		$(this).html(newHeading);
 	});
+	*/
 });

@@ -21,13 +21,13 @@
                                     <hr class="enhancementsTitleLine"/>
                             <!--###########-->      
                                     <h3>
-                                        <a name="photoOp">PHOTO OPPS! &mdash; WE GO BIG!!!
+                                        <a name="photoOp">Photo Opps! &mdash; WE GO BIG!!!
                                         </a>
                                     </h3>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-greenscreen.jpg" /></div>
-                                        <h4>GREENSCREEN</h4>
+                                        <h4>Green Screen</h4>
                                         <p>
                                             Unlimited 5x7 glossy photos featuring your choice of over 400 amazing backgrounds and counting!  Magazine Covers, Movie Posters, Sports, Celebrities, Exotic locations and more...Always delievered to your guests in professional looking photo jackets.
                                         </p>
@@ -43,7 +43,7 @@
                                     </div>
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-photbooth.jpg" /></div>
-                                        <h4>MEGA BOOTH</h4>
+                                        <h4>Mega Booth</h4>
                                         <p>
                                             A modern take on the old-school photobooth.  No wallet size here!  5x7 Glossys, with 4 cool pictures and a custom logo with your theme, colors, and name included.  Totally fun and great for any type of event.
                                         </p>
@@ -51,7 +51,7 @@
                                     </div>
                                     <hr class="enhancementsTitleLine">
                             <!--###########-->      
-                                    <h3><a name="airbrush">ART & AIRBRUSH - UNIQUE STYLE EVERY TIME!</a></h3>
+                                    <h3><a name="airbrush">Art &amp; Airbrush - Unique Style Every Time!</a></h3>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="img/enhancements-airbrush1.jpg" /></div>
@@ -74,7 +74,7 @@
                             <!--###########-->      
                                     <h3>
                                         <a name="gameStations"> 
-                                            GAME STATIONS - START YOUR ENGINES!
+                                            Game Stations - Start Your Engines!
                                         </a>
                                     </h3>
 
@@ -148,7 +148,7 @@
                             <!--###########-->      
                                     <h3>
                                         <a name="gameShow">
-                                            GAME SHOW EXPERIENCE
+                                            Hame Show Experience
                                         </a>
                                     </h3>
 
@@ -163,7 +163,7 @@
                             <!--###########-->      
                                     <h3>
                                         <a name="missingTitle">
-                                            MISSING A TITLE!!!
+                                            Missing a Title!!!
                                         </a>
                                     </h3>
 
@@ -178,7 +178,7 @@
                             <!--###########-->      
                                     <h3>
                                         <a name="transformRoom">
-                                            TRANSFORM YOUR ROOM!!!
+                                            Transform Your Room!!!
                                         </a>
                                     </h3>
 
@@ -195,7 +195,7 @@
 
                                 <div class="columnRight">
                                     <div class="sideBox enhanceMenu">
-                                        <h3>ENHANCEMENTS</h3>
+                                        <h3>Enhancements</h3>
                                         <hr>
                                         <p><a href="#airbrush">
                                                 Airbrush & Glitter Tattoos
