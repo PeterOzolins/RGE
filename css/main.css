@@ -153,10 +153,13 @@ h2 .iCaps {
     margin: 0 auto;
     height: 257px;
     background-color: #000;
-    background-image: url("/img/rge_wedding_header_3.jpg");
+    background-image: url("/img/rge_header_3.jpg");
     background-position: top;
     background-repeat: no-repeat;
     position: relative;
+}
+#headerImage.events {
+    background-image:  url("/img/rge_events_header_3.jpg");
 }
 #headerBottom {
     width: 100%;

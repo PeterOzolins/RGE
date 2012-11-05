@@ -60,8 +60,8 @@
                                     <div class="sideBox">
                                         <h3>Event Services</h3>
                                         <hr>
-                                        <p><a href="#">Bar & Batmitzvahs</a></p>
-                                        <p><a href="#" class="subMenuActive">Weddings</a></p>
+                                        <p><a href="/mitzvah.php">Bar & Batmitzvahs</a></p>
+                                        <p><a href="/wedding.php" class="subMenuActive">Weddings</a></p>
                                         <p><a href="#">Corporate</a></p>
                                         <p><a href="#">Birthdays</a></p>
                                         <p><a href="#">Schools</a></p>
