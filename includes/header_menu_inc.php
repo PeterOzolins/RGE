@@ -19,6 +19,17 @@
                                     </li>
                                     <li>
                                         <a href="enhancements.php" class="pgEnhancements">ENHANCEMENTS</a>
+                                        <ul class="subMenu">
+                                            <li><a href="#">Airbrush &amp; Glitter Tattoos</a></li>
+                                            <li><a href="#">Airbrush Shirts & Hats</a></li>
+                                            <li><a href="#">Game Stations</a></li>
+                                            <li><a href="#">Green Screen Photos</a></li>
+                                            <li><a href="#">Photobooths</a></li>
+                                            <li><a href="#">Giveaways</a></li>
+                                            <li><a href="#">Montage Production</a></li>
+                                            <li><a href="#">LED Lighting</a></li>
+                                        </ul>
+
                                     </li>
                                     <li>
                                         <a href="#" class="pgShoutOuts">SHOUT OUTS</a>
