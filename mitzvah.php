@@ -20,7 +20,7 @@
                                     <h2>The Ultimate Party Experience!</h2>
                                     <h4>With Real Genius</h4>
                                     <hr />
-                                    <div class="weddingImageBig"></div>
+                                    <div class="weddingImageBig"><img src="/img/mitzPagePhotos/mitzvah-top.jpg"></div>
                                     <h3>Professional DJ's &amp; MC's</h3>
                                     <p>With over 25 professional entertainers on staff, our goal is to help you, from start to finish, create the party of a lifetime!  We specialize in creating an “EVERYBODY PARTY TM” ,entertaining kids, adults, and people of all ages with a variety of music, games, and interactive follow-alongs.</p>
 
