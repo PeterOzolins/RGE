@@ -326,6 +326,7 @@ h2 .iCaps {
 .subMenu hr {
     width: 80%;
     margin: 0 auto;
+    border-color: rgb(238, 78, 95);
 }
 #topHeadBorderline {
     width: 1000px;
