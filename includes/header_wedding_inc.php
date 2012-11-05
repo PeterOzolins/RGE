@@ -33,9 +33,9 @@
                             <div id="headerImage">
                                 <img src="/img/home-top-borderline.png" id="topHeadBorderline">
 
-                                <!-- iFrame for slideshow -->
-                                    <iframe src="/includes/slideshow.html" seamless="seamless" id="slideshowIframe"></iframe>
-                                <!-- END iFrame for slideshow -->
+                                <!--@@@  iFrame for slideshow -->
+                                    <iframe src="/includes/slideshow_wedding.html" seamless="seamless" id="slideshowIframe"></iframe>
+                                <!--@@@  END iFrame for slideshow -->
 
                                 <img src="/img/home-middle-borderline.png" id="midHeadBorderline">
                             </div>
