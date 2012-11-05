@@ -17,45 +17,39 @@
                                 <div class="columnLeft">
                                     <div class="clearfix">
                                     </div>
-                                    <h2>Your Perfect Day</h2>
-                                    <h4>Your ceremony, your reception, your music.</h4>
+                                    <h2>The Ultimate Party Experience!</h2>
+                                    <h4>With Real Genius</h4>
                                     <hr />
                                     <div class="weddingImageBig"></div>
-                                    <h3>Professional DJ's & MC's</h3>
-                                    <p>Our experienced staff have backgrounds in television, radio, improv and stage with your team, you get 2 performers who specialize in getting your crowd excited from the moment you walk in!</p>
+                                    <h3>Professional DJ's &amp; MC's</h3>
+                                    <p>With over 25 professional entertainers on staff, our goal is to help you, from start to finish, create the party of a lifetime!  We specialize in creating an “EVERYBODY PARTY TM” ,entertaining kids, adults, and people of all ages with a variety of music, games, and interactive follow-alongs.</p>
 
                                     <div class="columnLeftRow">
-                                        <h3>Plan It All With Us</h3>
-                                        <div class="rowImage"><img src="img/weddingDetailsRow.jpg" /></div>
+                                        <h3>The Party!</h3>
+                                        <div class="rowImage"><img src="img/mitzPagePhotos/mitzvah-body1.jpg" /></div>
                                         <p>
-                                            Your MC focuses on your special moments. The Grand entrance, First Dance, Toasts, Cake cutting; just to start... Your DG specializes in playing the music you select, while mixing in an amazing blend of what keep your guests on the dance floor all night long.
+                                            MC’s, Pro-DJs, Interactive Dancers, Light Shows, Uplighting, Montages, Video Projection, Giveaways, Games, and Free Event Planning
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>
                                     <div class="columnLeftRow">
-                                        <h3>Event Scheduling</h3>
-                                        <div class="rowImage"><img src="/img/weddingSchedulingRow.jpg" /></div>
+                                        <h3>Pre-Party! </h3>
+                                        <div class="rowImage"><img src="/img/mitzPagePhotos/mitzvah-body2.jpg" /></div>
                                         <p>
-                                            We do it all!!!  We work with you closely to create the perfect time-line.  Your schedule will keep include all of your formalities & tie together lots of dancing and fun so your party is moving every second. We even coordinate all of the scheduling with your other vendors!
+                                            GreenScreen Photos, Airbrush Artists (T-Shirts, Hats, Tattoos), Game Stations, Photobooths, Glitter Tattoos, Virtual Graffiti Wall...and more
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>
                                     <div class="columnLeftRow">
-                                        <h3>Have It Your Way</h3>
-                                        <div class="rowImage"><img src="img/weddingDetailsRow.jpg" /></div>
+                                        <h3>Event Planning</h3>
+                                        <div class="rowImage"><img src="img/mitzPagePhotos/mitzvah-body1.jpg" /></div>
                                         <p>
-                                            Every event we do is different and unique.  Our staff is the same.  With many performers to choose from, you will find the perfect team of MC & DJ to run your event with smooth precision.
+                                            Included in your entertainment package is your PARTY EXPERT, someone assigned to your event to plan, coordinate, and excecute all of the elements of your party.  With all of the vendors, entertainers, and experts under one roof, we make it easy.  Personal service is our #1 priority..
                                         </p>
                                         <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <h3>The Add-Ons</h3>
-                                        <div class="rowImage"><img src="/img/weddingAdOnsRow.jpg" /></div>
-                                        <p>
-                                            Aside from music we also provide some incredible ADD-ONs for your special day...Photobooths, Uplighting, or a personalized monogram on the dance floor...It’s only the beginning of what we can provide.
-                                        </p>
                                     </div>
                                 </div>
+
                                 <div class="columnRight">
                                     <div class="sideBox">
                                         <h3>Event Services</h3>
