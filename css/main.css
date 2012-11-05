@@ -124,6 +124,7 @@ h4 {
 p {
     font-size: .9em;
     margin: 0;
+    margin-top: 10px;
 }
 h3 .iCaps {
     font-size: 1.2em;
@@ -437,7 +438,7 @@ h2 .iCaps {
     font-weight: bold;
 }
 .enhancementsTitleLine {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 .sideBox .active {
     color: red;

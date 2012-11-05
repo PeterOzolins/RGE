@@ -19,6 +19,38 @@
                                     </div>
                                     <h2>Enhancements Title</h2>
                                     <hr class="enhancementsTitleLine"/>
+                            <!--###########-->      
+                                    <h3>
+                                        <a name="photoOp">PHOTO OPPS! &mdash; WE GO BIG!!!
+                                        </a>
+                                    </h3>
+
+                                    <div class="columnLeftRow">
+                                        <div class="rowImage"><img src="/img/enhancements-greenscreen.jpg" /></div>
+                                        <h4>GREENSCREEN</h4>
+                                        <p>
+                                            Unlimited 5x7 glossy photos featuring your choice of over 400 amazing backgrounds and counting!  Magazine Covers, Movie Posters, Sports, Celebrities, Exotic locations and more...Always delievered to your guests in professional looking photo jackets.
+                                        </p>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="columnLeftRow">
+                                        <div class="rowImage"><img src="/img/enhancements-starpix.jpg" /></div>
+                                        <h4>Star Pix Photo Adventure</h4>
+                                        <p>
+                                            Choose any one of a dozen colors on a 10 ft. backdrop including hats, props, wigs, shades, bubbles, and more.  Hip photographers create unique poses for these new age Glamour Shots.  Up to 8 at a time!  Everyone takes home a cool 5X7.
+                                        </p>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="columnLeftRow">
+                                        <div class="rowImage"><img src="/img/enhancements-photbooth.jpg" /></div>
+                                        <h4>MEGA BOOTH</h4>
+                                        <p>
+                                            A modern take on the old-school photobooth.  No wallet size here!  5x7 Glossys, with 4 cool pictures and a custom logo with your theme, colors, and name included.  Totally fun and great for any type of event.
+                                        </p>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <hr class="enhancementsTitleLine">
+                            <!--###########-->      
                                     <h3><a name="airbrush">ART & AIRBRUSH - UNIQUE STYLE EVERY TIME!</a></h3>
 
                                     <div class="columnLeftRow">
@@ -38,7 +70,8 @@
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>
-
+                                    <hr class="enhancementsTitleLine">
+                            <!--###########-->      
                                     <h3>
                                         <a name="gameStations"> 
                                             GAME STATIONS - START YOUR ENGINES!
@@ -111,37 +144,8 @@
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>
-
-                                    <h3>
-                                        <a name="photoOp">PHOTO OPPS! &mdash; WE GO BIG!!!
-                                        </a>
-                                    </h3>
-
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-greenscreen.jpg" /></div>
-                                        <h4>GREENSCREEN</h4>
-                                        <p>
-                                            Unlimited 5x7 glossy photos featuring your choice of over 400 amazing backgrounds and counting!  Magazine Covers, Movie Posters, Sports, Celebrities, Exotic locations and more...Always delievered to your guests in professional looking photo jackets.
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-photbooth.jpg" /></div>
-                                        <h4>MEGA BOOTH</h4>
-                                        <p>
-                                            A modern take on the old-school photobooth.  No wallet size here!  5x7 Glossys, with 4 cool pictures and a custom logo with your theme, colors, and name included.  Totally fun and great for any type of event.
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-starpix.jpg" /></div>
-                                        <h4>Star Pix Photo Adventure</h4>
-                                        <p>
-                                            Choose any one of a dozen colors on a 10 ft. backdrop including hats, props, wigs, shades, bubbles, and more.  Hip photographers create unique poses for these new age Glamour Shots.  Up to 8 at a time!  Everyone takes home a cool 5X7.
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-
+                                    <hr class="enhancementsTitleLine">
+                            <!--###########-->      
                                     <h3>
                                         <a name="gameShow">
                                             GAME SHOW EXPERIENCE
@@ -156,7 +160,7 @@
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>
-
+                            <!--###########-->      
                                     <h3>
                                         <a name="missingTitle">
                                             MISSING A TITLE!!!
@@ -171,7 +175,7 @@
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>
-
+                            <!--###########-->      
                                     <h3>
                                         <a name="transformRoom">
                                             TRANSFORM YOUR ROOM!!!
@@ -186,7 +190,7 @@
                                         </p>
                                     </div>
                                 </div>
-
+                            <!--###########-->      
                                 <!-- ##end left column / start right column -->
 
                                 <div class="columnRight">
