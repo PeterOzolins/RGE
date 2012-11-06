@@ -20,6 +20,7 @@ textarea {
 body {
     font-size: 0.9em;
     line-height: 1.4;
+    color: #232323;
 }
 
 /*
@@ -196,7 +197,6 @@ h2 .iCaps {
     width: 1000px;
     margin: 0 auto;
     background-color: #fff;
-    color: #676767;
 }
 #contentContainer.homePage {
     background-image: url(/img/home-body-swirl-bg.png);
