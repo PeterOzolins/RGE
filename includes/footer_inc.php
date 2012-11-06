@@ -4,7 +4,7 @@
                                 About Real Genius
                             </h4>
                             <p>
-                                The performers<br>
+                                The Performers<br>
                                 What We Do<br>
                                 Shout-Outs<br>
                                 Contact Us
