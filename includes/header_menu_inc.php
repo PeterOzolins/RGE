@@ -5,7 +5,7 @@
                                         <a href="index.php" class="pgHome">HOME</a>
                                     </li>
                                     <li>
-                                        <a href="wedding.php" class="pgWedding">EVENTS</a>
+                                        <a href="mitzvah.php" class="pgWedding">EVENTS</a>
                                         <ul class="subMenu">
                                             <li><a href="/mitzvah.php">Bar &amp; Batmitzvahs</a><hr></li>
                                             <li><a href="/wedding.php" class="subMenuActive">Weddings</a><hr></li>
@@ -20,12 +20,12 @@
                                     <li>
                                         <a href="enhancements.php" class="pgEnhancements">ENHANCEMENTS</a>
                                         <ul class="subMenu">
+                                            <li><a href="/enhancements.php#photoOp">Photo Opps</a><hr></li>
                                             <li><a href="/enhancements.php#airbrush">Airbrush &amp; Glitter Tattoos</a><hr></li>
-                                            <li><a href="/enhancements.php#">Airbrush Shirts & Hats</a><hr></li>
                                             <li><a href="/enhancements.php#gameStations">Game Stations</a><hr></li>
-                                            <li><a href="/enhancements.php#">Green Screen Photos</a><hr></li>
-                                            <li><a href="/enhancements.php#photoOp">Photobooths</a><hr></li>
-                                            <li><a href="/enhancements.php#">Giveaways</a><hr></li>
+                                            <li><a href="/enhancements.php#hameShow">Game Show</a><hr></li>
+                                            <li><a href="/enhancements.php#montage">Video Montage</a><hr></li>
+                                            <li><a href="/enhancements.php#transformRoom">Transform Your Room</a><hr></li>
                                             <li><a href="/enhancements.php#">Montage Production</a><hr></li>
                                             <li><a href="/enhancements.php#transformRoom">LED Lighting</a></li>
                                         </ul>

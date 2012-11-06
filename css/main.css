@@ -180,7 +180,7 @@ h2 .iCaps {
     font-weight: bold;
     margin: 0 auto;
     position: relative;
-    -webkit-text-stroke: 1px #666;
+    text-shadow: -1px -1px 0 #333,           1px -1px 0 #333,         -1px 1px 0 #333,         1px 1px 0 #333;
 }
 #headerBottomInner p {
     margin: 15px 0px;
@@ -240,7 +240,7 @@ h2 .iCaps {
 #contentContainerInner h2 {
     color: red;
     line-height: 1em;
-    font-size: 35px;
+    font-size: 28px;
     font-family: suiGeneris;
     font-weight: normal;
     margin-bottom: 0;
@@ -327,6 +327,9 @@ h2 .iCaps {
     margin: 0 auto;
     border-color: rgb(238, 78, 95);
 }
+.subMenu a {
+    margin-left: 13px;
+}
 #topHeadBorderline {
     width: 1000px;
 
@@ -363,7 +366,7 @@ h2 .iCaps {
     color: white;
     line-height: 1.3em;
     border: none;
-    text-align: center;
+    text-align: left;
     cursor: pointer;
     font-size: 14px;
 }

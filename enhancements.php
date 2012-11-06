@@ -139,7 +139,7 @@
                                     </div>
                                     <hr class="enhancementsTitleLine">
                             <!--###########-->      
-                                    <a name="gameShow"><h3>Hame Show Experience</h3></a>
+                                    <a name="gameShow"><h3>Game Show Experience</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-game-show.jpg" /></div>
@@ -150,7 +150,7 @@
                                         <div class="clearfix"></div>
                                     </div>
                             <!--###########-->      
-                                    <a name="missingTitle"><h3>Missing a Title!!!</h3></a>
+                                    <a name="montage"><h3>Missing a Title!!!</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-projector.jpg" /></div>
@@ -178,24 +178,25 @@
                                     <div class="sideBox enhanceMenu">
                                         <h3>Enhancements</h3>
                                         <hr>
+                                        <p><a href="#photoOp">
+                                            Photo Opps
+                                        </a></p>
                                         <p><a href="#airbrush">
                                                 Airbrush & Glitter Tattoos
                                         </a></p>
                                         <p><a href="#gameStations">
                                                 Game Stations
                                         </a></p>
-                                        <p><a href="#photoOp">
-                                            Photo Opps
-                                        </a></p>
                                         <p><a href="#gameShow">
-                                            Hameshow
+                                            Game Show
                                         </a></p>
-                                        <p><a href="#missingTitle">
-                                            Missing Title
+                                        <p><a href="#montage">
+                                            Montage
                                         </a></p>
                                         <p><a href="#transformRoom">
                                             Transform your Room
                                         </a></p>
+                                        
                                         <p>Montage Production</p>
                                         <p>LED Lighting</p>
                                     </div>
