@@ -20,10 +20,7 @@
                                     <h2>Enhancements Title</h2>
                                     <hr class="enhancementsTitleLine"/>
                             <!--###########-->      
-                                    <h3>
-                                        <a name="photoOp">Photo Opps! &mdash; WE GO BIG!!!
-                                        </a>
-                                    </h3>
+                                    <a name="photoOp"><h3>Photo Opps! &mdash; WE GO BIG!!!</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-greenscreen.jpg" /></div>
@@ -51,7 +48,7 @@
                                     </div>
                                     <hr class="enhancementsTitleLine">
                             <!--###########-->      
-                                    <h3><a name="airbrush">Art &amp; Airbrush - Unique Style Every Time!</a></h3>
+                                    <a name="airbrush"><h3>Art &amp; Airbrush - Unique Style Every Time!</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="img/enhancements-airbrush1.jpg" /></div>
@@ -72,11 +69,7 @@
                                     </div>
                                     <hr class="enhancementsTitleLine">
                             <!--###########-->      
-                                    <h3>
-                                        <a name="gameStations"> 
-                                            Game Stations - Start Your Engines!
-                                        </a>
-                                    </h3>
+                                    <a name="gameStations"><h3>Game Stations - Start Your Engines!</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="img/enhancements-guitar-hero.jpg" /></div>
@@ -146,11 +139,7 @@
                                     </div>
                                     <hr class="enhancementsTitleLine">
                             <!--###########-->      
-                                    <h3>
-                                        <a name="gameShow">
-                                            Hame Show Experience
-                                        </a>
-                                    </h3>
+                                    <a name="gameShow"><h3>Hame Show Experience</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-game-show.jpg" /></div>
@@ -161,11 +150,7 @@
                                         <div class="clearfix"></div>
                                     </div>
                             <!--###########-->      
-                                    <h3>
-                                        <a name="missingTitle">
-                                            Missing a Title!!!
-                                        </a>
-                                    </h3>
+                                    <a name="missingTitle"><h3>Missing a Title!!!</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-projector.jpg" /></div>
@@ -176,11 +161,7 @@
                                         <div class="clearfix"></div>
                                     </div>
                             <!--###########-->      
-                                    <h3>
-                                        <a name="transformRoom">
-                                            Transform Your Room!!!
-                                        </a>
-                                    </h3>
+                                    <a name="transformRoom"><h3>Transform Your Room!!!</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-uplighting.jpg" /></div>
