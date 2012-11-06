@@ -291,6 +291,10 @@ h2 .iCaps {
     color: #676767;
     margin-top: 80px;
 }
+#allStarsGrid img {
+    position: absolute;
+    bottom: 14px;
+}
 #allStarsGrid ul {
     width: 100%;
     margin: 0;
@@ -377,9 +381,6 @@ h2 .iCaps {
 }
 #topMenu .active {
     background-color: red;
-}
-#topMenu .subActive {
-    color: black;
 }
 #topMenu .active:hover {
     background-color: red;

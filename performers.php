@@ -29,12 +29,12 @@
                                 </h3>
                                 <hr class="midWidthLine" />
                                     <ul>
-                                        <li> <h2>Randy</h2> </li>
-                                        <li> <h2>Ninja</h2> </li>
-                                        <li> <h2>Vince</h2> </li>
-                                        <li> <h2>Mat</h2> </li>
-                                        <li> <h2>Josh</h2> </li>
-                                        <li> <h2>Jordan</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Randy</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Ninja</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Vince</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Mat</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Josh</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Jordan</h2> </li>
                                     </ul>
                                     <div class="clearfix"></div>
                                 <h3>
@@ -42,15 +42,15 @@
                                 </h3>
                                 <hr class="midWidthLine" />
                                     <ul>
-                                        <li> <h2>Randy</h2> </li>
-                                        <li> <h2>Ninja</h2> </li>
-                                        <li> <h2>Vince</h2> </li>
-                                        <li> <h2>Mat</h2> </li>
-                                        <li> <h2>Josh</h2> </li>
-                                        <li> <h2>Jordan</h2> </li>
-                                        <li> <h2>Jordan</h2> </li>
-                                        <li> <h2>Jordan</h2> </li>
-                                        <li> <h2>Jordan</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Randy</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Ninja</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Vince</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Mat</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Josh</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Jordan</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Jordan</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Jordan</h2> </li>
+                                        <li><img src="img/team_imgs/team-gradient.png"><h2>Jordan</h2> </li>
                                     </ul>
                                     <div class="clearfix">
                                 </div>
