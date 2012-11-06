@@ -287,13 +287,29 @@ h2 .iCaps {
 
 }
 /*###*/
+.randyBg {background-image: url(/img/team_imgs/team-randy.jpg);}
+.ninjaBg {background-image: url(/img/team_imgs/team-ninja.jpg);}
+.jordanBg {background-image: url(/img/team_imgs/team-jordan.jpg);}
+.vinceBg {background-image: url(/img/team_imgs/team-vince.jpg);}
+.matBg {background-image: url(/img/team_imgs/team-matt.jpg);}
+.joshBg {background-image: url(/img/team_imgs/team-josh.jpg);}
+.quintonBg {background-image: url(/img/team_imgs/team-quinton.jpg);}
+.jjBg {background-image: url(/img/team_imgs/team-jj.jpg);}
+.lunchBg {background-image: url(/img/team_imgs/team-lunchmeat.jpg);}
+.tifBg {background-image: url(/img/team_imgs/team-tiffany.jpg);}
+.talesBg {background-image: url(/img/team_imgs/team-tales.jpg);}
+.samBg {background-image: url(/img/team_imgs/team-samantha.jpg);}
+.sirCharBg {background-image: url(/img/team_imgs/team-sir-charles.jpg);}
+.teriBg {background-image: url(/img/team_imgs/team-teri.jpg);}
+.amyBg {background-image: url(/img/team_imgs/team-amy.jpg);}
+
 #allStarsGrid {
     color: #676767;
     margin-top: 80px;
 }
 #allStarsGrid img {
     position: absolute;
-    bottom: 14px;
+    bottom: 12px;
 }
 #allStarsGrid ul {
     width: 100%;
