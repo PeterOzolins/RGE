@@ -177,10 +177,10 @@ h2 .iCaps {
 }
 #headerBottomInner {
     width: 1000px;
+    color: rgb(245, 242, 242);
     font-weight: bold;
     margin: 0 auto;
     position: relative;
-    text-shadow: -1px -1px 0 #333,           1px -1px 0 #333,         -1px 1px 0 #333,         1px 1px 0 #333;
 }
 #headerBottomInner p {
     margin: 15px 0px;
@@ -377,6 +377,9 @@ h2 .iCaps {
 }
 #topMenu .active {
     background-color: red;
+}
+#topMenu .subActive {
+    color: black;
 }
 #topMenu .active:hover {
     background-color: red;

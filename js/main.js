@@ -14,6 +14,11 @@ $(document).ready(function() {
 				break;
 			case "wedding.php":
 				$("a.pgWedding").addClass("active");
+				$("a.subWedding").addClass("subMenuActive");
+				break;
+			case "mitzvah.php":
+				$("a.pgWedding").addClass("active");
+				$("a.subMitzvah").addClass("subMenuActive");
 				break;
 			case "performers.php":
 				$("a.pgPerformers").addClass("active");
