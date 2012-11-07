@@ -3,6 +3,15 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
+        <!-- FB -->
+        <meta property="og:title" content="Real Genius Entertainment" />
+        <meta property="og:type" content="company" />
+        <meta property="og:url" content="http://realgeniusdjs.com.s50849.gridserver.com/" />
+        <meta property="og:image" content="http://realgeniusdjs.com.s50849.gridserver.com/img/home-special-event.png" />
+        <meta property="og:site_name" content="RGE" />
+        <meta property="fb:app_id" content="48545221046" />
+        <!-- xx -->
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title></title>

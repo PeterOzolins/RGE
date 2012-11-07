@@ -7,7 +7,7 @@
                                     <li>
                                         <a href="mitzvah.php" class="pgWedding">EVENTS</a>
                                         <ul class="subMenu">
-                                            <li><a href="/mitzvah.php" class="subMitzvah">Bar &amp; Batmitzvahs</a><hr></li>
+                                            <li><a href="/mitzvah.php" class="subMitzvah">Bar &amp; Bat-Mitzvahs</a><hr></li>
                                             <li><a href="/wedding.php" class="subWedding">Weddings</a><hr></li>
                                             <li><a href="#">Corporate</a><hr></li>
                                             <li><a href="#">Birthdays</a><hr></li>

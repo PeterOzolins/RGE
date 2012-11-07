@@ -203,6 +203,15 @@ h2 .iCaps {
 }
 #headerBottomInnerLeft {
     float: left;
+    width: 300px;
+    height: 53px;
+}
+#headerBottomInnerLeft p {
+    float: left;
+    margin-right: 10px;
+}
+.fbBtnInline {
+    margin-top: 8px;
 }
 #headerBottomInnerRight {
     float: right;
@@ -222,6 +231,10 @@ h2 .iCaps {
     margin: 0 auto;
     font-size: 18px;
     position: relative;
+}
+.trademark {
+    vertical-align: super;
+    font-size: .5em;
 }
 .contentImageRight {
     float: right;
