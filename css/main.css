@@ -590,7 +590,16 @@ h2 .iCaps {
 #requestQuoteForm .guestBox {
     width: 220px;
 }
-
+.formBtnRow {
+    text-align: center;
+    font-size: 1.2em;
+}
+.formBtnRow input:hover {
+    color: red;
+}
+.formBtnRow input {
+    padding: 5px;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
