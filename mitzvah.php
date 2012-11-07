@@ -17,7 +17,9 @@
                                 <div class="columnLeft">
                                     <div class="clearfix">
                                     </div>
-                                    <h2>The Ultimate Party Experience!</h2>
+                                    <h1>
+                                        <span class="iCaps">T</span>he <span class="icaps">U</span>ltimate 
+                                        <span class="dark"><span class="iCaps">P</span>arty <span class="iCaps">E</span>xperience!</span></h1>
                                     <h4>With Real Genius</h4>
                                     <hr />
                                     <div class="weddingImageBig"><img src="/img/mitzPagePhotos/mitzvah-top.jpg"></div>

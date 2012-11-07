@@ -18,9 +18,9 @@
                                 </div>
                                 <div class="contentImageRight">
                                 </div>
-                                <h2>The Vibe! <span class="dark">What We Do...</span></h2>
+                                <h1><span class="iCaps">T</span>he <span class="iCaps">V</span>ibe! <span class="dark"><span class="iCaps">W</span>hat <span class="iCaps">W</span>e <span class="iCaps">D</span>o...</span></h1>
                                 <hr />
-                                <p>
+                                <p class="headroom">
                                     You get one chance to celebrate your Bar/Bat-Mitzvah, Wedding, Corporate
                                     Event, or special occasion.
                                 </p>
@@ -29,18 +29,18 @@
                                         You want it done perfectly.
                                     </strong>
                                     With our focus on cutting edge entertainment, we always create an event
-                                    that's unique, different and customozed to your special requests.
+                                    that's unique, different and customized to your special requests.
                                 </p>
                                 <p>
                                     With a staff of more than 20 performers, our
                                     <strong>
-                                        Party Hosts, Pro-DGs, and Ineractive Dancers
+                                        Party Hosts, Pro-DJs, and Interactive Dancers
                                     </strong>
-                                    love coming up with ground-breaking and exiting ways to keep your party
+                                    love coming up with ground-breaking and exciting ways to keep your party
                                     going all night long!
                                 </p>
                                 <p>
-                                    Our persoal service is second to none. Our
+                                    Our personal service is second to none. Our
                                     <strong>
                                         office staff, performers and event specialists
                                     </strong>
@@ -49,10 +49,17 @@
                                     <strong>
                                         Real Genius
                                     </strong>
-                                    to your nex special event.
+                                    to your next special event.
                                 </p>
+                                <p>
+                                    Book Your Event!
+                                </p>
+                                <p>
+                                    Call today to set up a consultation! We always come to you... You will NEVER have to schlep to us. We are all about creatifity and personal service!
+                                </p>
+                                
                                 <div class="clearfix"></div>
-                                <h3 class="noMargin">
+                                <h3 class="noMargin headroom">
                                     Plan It All With Us
                                 </h3>
                                 <hr />

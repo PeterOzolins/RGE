@@ -15,9 +15,9 @@
                         <div id="contentContainer">
                             <div id="contentContainerInner">
                                 <div class="clearfix"></div>
-                                <h2>
-                                    Meet <span class="dark">The Real Genius All Stars</span>
-                                </h2>
+                                <h1>
+                                    <span class="iCaps">M</span>eet <span class="dark"><span class="iCaps">T</span>he <span class="iCaps">R</span>eal <span class="iCaps">G</span>enius <span class="iCaps">A</span>ll <span class="iCaps">S</span>tars</span>
+                                </h1>
                                 <hr />
                                 <p>
                                     Vitae vivamus, dictum feugiat dapibus orci ultrices tristique, felis orci diam eget massa massa libero. Ridiculus mauris pellentesque sollicitudin proin nunc in, tellus maecenas at accumsan velit, mauris a. 

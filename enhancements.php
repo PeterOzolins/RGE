@@ -17,7 +17,7 @@
                                 <div class="columnLeft">
                                     <div class="clearfix">
                                     </div>
-                                    <h2>Enhancements Title</h2>
+                                    <h1><span class="iCaps">E</span>nhancements <span class="dark"><span class="iCaps">T</span>itle</span></h1>
                                     <hr class="enhancementsTitleLine"/>
                             <!--###########-->      
                                     <a name="photoOp"><h3>Photo Opps! &mdash; WE GO BIG!!!</h3></a>

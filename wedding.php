@@ -17,7 +17,7 @@
                                 <div class="columnLeft">
                                     <div class="clearfix">
                                     </div>
-                                    <h2>Your Perfect Day</h2>
+                                    <h1><span class="iCaps">Y</span>our <span class="dark"><span class="iCaps">P</span>erfect <span class="iCaps">D</span>ay</span></h1>
                                     <h4>Your ceremony, your reception, your music.</h4>
                                     <hr />
                                     <div class="weddingImageBig"></div>
