@@ -21,6 +21,9 @@
                                     <p>
                                         Like Us!
                                     </p>
+                                        <div class="fbBtnInline">
+                                            <div class="fb-like" data-href="http://realgeniusdjs.com.s50849.gridserver.com/" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" data-font="arial"></div>
+                                        </div>
                                 </div>
                                 <div id="headerBottomInnerRight">
                                     <p>
