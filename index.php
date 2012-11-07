@@ -18,12 +18,7 @@
                                 </div>
                                 <div class="contentImageRight">
                                 </div>
-                                <h2>
-                                    The Vibe
-                                    <span class="dark">
-                                        What We Do
-                                    </span>
-                                </h2>
+                                <h2>The Vibe! <span class="dark">What We Do...</span></h2>
                                 <hr />
                                 <p>
                                     You get one chance to celebrate your Bar/Bat-Mitzvah, Wedding, Corporate
