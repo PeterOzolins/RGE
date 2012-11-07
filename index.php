@@ -71,8 +71,7 @@
                                                 Mitzvahs
                                             </h3>
                                             <p>
-                                                Wisi vestibulum. Dolor sed, sem integer vitae, ipsum quam non cras, feugiat
-                                                faucibus pede. Viverra sed sem aliquet sem.
+                                                Let our teams of DJs, MCs, and Dancers create an EVERYBODY party for all of your guests with dancing, games, &amp; fun; all night long!
                                             </p>
                                         </li>
                                         <li>
@@ -81,8 +80,7 @@
                                                 Weddings
                                             </h3>
                                             <p>
-                                                Amet purus, aliquip sit, dolor integer ut interdum praesent, mi cursus
-                                                nam tempor duis placerat volutpat. Duis non nec eu. mi cursus.
+                                                On your perfect day, it's all about you. We'll simply make it the best day of your lives with a DJ who has impeccable taste in music and the power to keep your dance floor packed, the whole time.
                                             </p>
                                         </li>
                                         <li>
@@ -91,8 +89,7 @@
                                                 Corporate
                                             </h3>
                                             <p>
-                                                Amet purus, aliquip sit, dolor integer ut interdum praesent, mi cursus
-                                                nam tempor duis placerat volutpat. Duis non nec eu dapibus. Tristique turpis.
+                                                With some comedy, unique games, lots of dancing; it's easy to see how your boss and co-workers will never forget a night like this.
                                             </p>
                                         </li>
                                         <li>
@@ -101,8 +98,7 @@
                                                 Special Events
                                             </h3>
                                             <p>
-                                                Viverra nec in hendrerit lorem vulputate, et est. Dolor nonummy. Volutpat
-                                                odio urna tellus laoreet malesuada, non
+                                                Wrap Parties, School Dances, Birthdays, Fundraisers, Sweet 16s, Grad Parties...We do it all!
                                             </p>
                                         </li>
                                     </ul>

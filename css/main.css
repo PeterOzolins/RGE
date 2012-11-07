@@ -240,8 +240,12 @@ h2 .iCaps {
     margin: 0;
     padding: 0;
 }
+.contentBottomBoxes p {
+    font-size: .8em;
+    margin: 10px 8px 0;
+}
 .contentBottomBoxes ul li {
-    height: 280px;
+    height: 370px;
     width: 196px;
     border: 1px solid #333;
     display: inline;
