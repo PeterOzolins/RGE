@@ -48,7 +48,7 @@
                                         <li class="tifBg"><img src="img/team_imgs/team_gradient.png"><h2>Tiffany</h2> </li>
                                         <li class="talesBg"><img src="img/team_imgs/team_gradient.png"><h2>Tales</h2> </li>
                                         <li class="samBg"><img src="img/team_imgs/team_gradient.png"><h2>Samantha</h2> </li>
-                                        <li class="sirCharBg"><img src="img/team_imgs/team_gradient.png"><h2>Sir Charles</h2> </li>
+                                        <li class="sirCharBg"><img src="img/team_imgs/team_gradient.png"><h2>Charles</h2> </li>
                                         <li class="teriBg"><img src="img/team_imgs/team_gradient.png"><h2>Teri</h2> </li>
                                         <li class="amyBg"><img src="img/team_imgs/team_gradient.png"><h2>Amy</h2> </li>
                                     </ul>
