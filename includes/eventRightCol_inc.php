@@ -52,10 +52,12 @@
                 echo('
                     <form action="wedding.php" method"get" id="requestQuoteForm">
                         NAME*: 
-                            <input type="text" name="fname" class="nameBox">
-                            <input type="text" name="lname" class="nameBox">
+                            <input type="text" name="fname" class="nameBox required">
+                            <input type="text" name="lname" class="nameBox required">
                             <br />
-                        PHONE*: <input type="text" name="phone1" class="phoneBox"><input type="text" name="phone2" class="phoneBox"><input type="text" name="phone3" class="phoneBox"><br />
+                        PHONE*: <input type="text" name="phone1" id="phoneB" class="phoneBox required">
+                                <input type="text" name="phone2" class="phoneBox required">
+                                <input type="text" name="phone3" class="phoneBox required"><br />
                         EMAIL: <input type="text" name="email" class="emailBox"><br />
                         PARTY DATE: <input type="text" name="partyDate" class="partyDateBox"><br />
                         TIME OF EVENT: <select name="eventTime">
