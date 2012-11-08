@@ -51,7 +51,7 @@ $(document).ready(function() {
 	//######## START THE FORM VALIDATION ########
 	$("#requestQuoteForm").validate({
 		//for debug, so the form is not actually submitted ...for testing
-		debug: true,
+		debug: false,
 		//error placement ...leave blank to not place a message
 		//what will be displayed when these fields are invalid
 		messages: {

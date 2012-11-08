@@ -10,7 +10,7 @@
     </div>
 
     <div class="sideBox requestQuote">
-        <h3>Request a Quote</h3>
+        <h3>Let's Get Started</h3>
         <hr>
 
         <?php
