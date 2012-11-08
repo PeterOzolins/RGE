@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-	//####### SHOW ACTIVE LINK IN MENU ####### 
+	//####### SHOW ACTIVE LINK IN MENU #######
 	var pagePath = window.location.pathname;
 	var pageName = pagePath.substr(pagePath.lastIndexOf("/")+1);
 	console.log(pageName, "<+++ LOGGED");
@@ -51,14 +51,15 @@ $(document).ready(function() {
 	//######## START THE FORM VALIDATION ########
 	$("#requestQuoteForm").validate({
 		//for debug, so the form is not actually submitted ...for testing
-		debug: flase, 
+		debug: true,
+		//error placement ...leave blank to not place a message
 		//what will be displayed when these fields are invalid
 		messages: {
-			fname: "*",
-			lname: "*",
-			phone1: "*",
-			phone2: "*",
-			phone3: "*"
+			fname: "",
+			lname: "",
+			phone1: "",
+			phone2: "",
+			phone3: ""
 		},
 		//rules for how to validate the phone number fields
 		rules: {
