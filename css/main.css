@@ -530,9 +530,11 @@ h2 .iCaps {
 #footer {
     width: 950px;
     height: 250px;
-    background-color: #000;
-    color: #fff;
+    color: #ccc;
     margin: 15px auto 0;
+    background-image: url(/img/footer_imgs/bottom-swirl.png);
+    background-repeat: no-repeat;
+    background-position: 625px 7px;
 }
 #footer div {
     float: left;
@@ -542,7 +544,7 @@ h2 .iCaps {
     margin-left: 0;
 }
 #footer div:last-child {
-    margin-right: 0;
+    margin-right: 100px;
     float: right;
     margin-top: 30px;
 }
@@ -553,7 +555,6 @@ h2 .iCaps {
     text-transform: none;
 }
 #footer h4.contact {
-    font-size: 18px;
 }   
 #footer p {
     margin: 5px 0;
@@ -564,11 +565,7 @@ h2 .iCaps {
 .socialIcons li {
     float: left;
     list-style: none;
-    width: 40px;
-    height: 40px;
-    background: grey;
-    margin-right: 5px;
-    border-radius: 5px;
+    margin-right: 6px;
 }/*=== contact form ===*/
 .requestQuote {
     background: url(/img/form-bg.png);

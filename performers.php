@@ -20,7 +20,10 @@
                                 </h1>
                                 <hr />
                                 <p>
-                                    Vitae vivamus, dictum feugiat dapibus orci ultrices tristique, felis orci diam eget massa massa libero. Ridiculus mauris pellentesque sollicitudin proin nunc in, tellus maecenas at accumsan velit, mauris a. 
+                                    Real Genius Entertainment has an array of seasoned and unique performers who create a HIGH ENERGY party experience. All 25 of our MCs, Pro-DJs, and Interactive Dancers make sure EVERYONE is entertained.
+                                </p>
+                                <p>
+                                    Your Party Host rocks your party with the perfect level of personality, your Pro-DJ plays the right music at the right time, and your Dancers are dynamic, exciting, and very interactive.
                                 </p>
 
                                 <div id="allStarsGrid">

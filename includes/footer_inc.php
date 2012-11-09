@@ -48,9 +48,9 @@
                                 Mon - Fri 10am - Late
                             </p>
                             <ul class="socialIcons">
-                                <li></li>
-                                <li></li>
-                                <li></li>
+                                <li><img src="img/footer_imgs/icon-fb.png" /></li>
+                                <li><img src="img/footer_imgs/icon-tw.png" /></li>
+                                <li><img src="img/footer_imgs/icon-yt.png" /></li>
                             </ul>
                         </div>
                     </div>
