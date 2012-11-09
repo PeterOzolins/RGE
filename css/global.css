@@ -19,7 +19,7 @@ body {
 	font:normal 62.5%/1.5 Helvetica, Arial, sans-serif;
 	letter-spacing:0;
 	color:#434343;
-	background:#000;
+	background: rgba(0, 0, 0, 0.8);
 	position:relative;
 	text-shadow:0 1px 0 rgba(255,255,255,.8);
 	-webkit-font-smoothing: subpixel-antialiased;
@@ -54,9 +54,6 @@ body {
 
 #slides {
 	position:absolute;
-	top: 12px;
-	left: 12px;
-	z-index:100;
 }
 
 /*
@@ -67,10 +64,11 @@ body {
 */
 
 .slides_container {
-	width: 405px;
+	width: 450px;
 	overflow:hidden;
 	position:relative;
 	display:none;
+	border: 1px white solid;
 }
 
 /*
@@ -82,7 +80,7 @@ body {
 */
 
 .slides_container div.slide {
-	width: 405px;
+	width: 450px;
 	height: 232px;
 	display:block;
 }
@@ -111,7 +109,7 @@ body {
 */
 
 .pagination {
-	margin: 0px auto 0;
+	margin: 4px auto 0;
 	width: 100%;
 }
 
