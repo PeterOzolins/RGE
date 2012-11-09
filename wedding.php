@@ -22,7 +22,7 @@
                                     <hr />
                                     <div class="weddingImageBig"></div>
                                     <h3>Professional DJ's & MC's</h3>
-                                    <p>Our experienced staff have backgrounds in television, radio, improv and stage with your team, you get 2 performers who specialize in getting your crowd excited from the moment you walk in!</p>
+                                    <p>Our experienced staff have backgrounds in television, radio, stage and improv with your team, you get 2 performers who specialize in getting your crowd excited from the moment you walk in!</p>
 
                                     <div class="columnLeftRow">
                                         <h3>Plan It All With Us</h3>
@@ -44,7 +44,7 @@
                                         <h3>Have It Your Way</h3>
                                         <div class="rowImage"><img src="img/weddingDetailsRow.jpg" /></div>
                                         <p>
-                                            Every event we do is different and unique.  Our staff is the same.  With many performers to choose from, you will find the perfect team of MC & DJ to run your event with smooth precision.
+                                            Every event we do is different and unique.  Our staff is the same. With many performers to choose from, you will find the perfect team of MC & DJ to run your event with smooth precision.
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>
@@ -52,7 +52,7 @@
                                         <h3>The Add-Ons</h3>
                                         <div class="rowImage"><img src="/img/weddingAdOnsRow.jpg" /></div>
                                         <p>
-                                            Aside from music we also provide some incredible ADD-ONs for your special day...Photobooths, Uplighting, or a personalized monogram on the dance floor...It’s only the beginning of what we can provide.
+                                            Aside from music we also provide some incredible ADD-ONs for your special day...Photo Booths, Uplighting, or a personalized monogram on the dance floor...It’s only the beginning of what we can provide.
                                         </p>
                                     </div>
                                 </div>

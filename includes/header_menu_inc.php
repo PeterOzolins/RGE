@@ -20,11 +20,11 @@
                                     <li>
                                         <a href="enhancements.php" class="pgEnhancements">ENHANCEMENTS</a>
                                         <ul class="subMenu">
-                                            <li><a href="/enhancements.php#photoOp">Photo Opps</a><hr></li>
+                                            <li><a href="/enhancements.php#photoOp">Photo Booths</a><hr></li>
                                             <li><a href="/enhancements.php#airbrush">Airbrush &amp; Glitter Tattoos</a><hr></li>
                                             <li><a href="/enhancements.php#gameStations">Game Stations</a><hr></li>
-                                            <li><a href="/enhancements.php#hameShow">Game Show</a><hr></li>
-                                            <li><a href="/enhancements.php#montage">Video Montage</a><hr></li>
+                                            <li><a href="/enhancements.php#hameShow">Game Show Experience</a><hr></li>
+                                            <li><a href="/enhancements.php#montage">Montage Projection</a><hr></li>
                                             <li><a href="/enhancements.php#transformRoom">Transform Your Room</a><hr></li>
                                             <li><a href="/enhancements.php#">Montage Production</a><hr></li>
                                             <li><a href="/enhancements.php#transformRoom">LED Lighting</a></li>

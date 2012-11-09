@@ -20,7 +20,7 @@
                                 </div>
                                 <h1><span class="iCaps">T</span>he <span class="iCaps">V</span>ibe! <span class="dark"><span class="iCaps">W</span>hat <span class="iCaps">W</span>e <span class="iCaps">D</span>o...</span></h1>
                                 <hr />
-                                <p class="headroom">
+                                <p>
                                     You get one chance to celebrate your Bar/Bat-Mitzvah, Wedding, Corporate
                                     Event, or special occasion.
                                 </p>
@@ -51,11 +51,9 @@
                                     </strong>
                                     to your next special event.
                                 </p>
+                                <h5 class="small">Book Your Event!</h5>
                                 <p>
-                                    Book Your Event!
-                                </p>
-                                <p>
-                                    Call today to set up a consultation! We always come to you... You will NEVER have to schlep to us. We are all about creatifity and personal service!
+                                    Call today to set up a consultation! We always come to your home where we discuss, collaborate, and design you event with dynamic and fresh ideas.
                                 </p>
                                 
                                 <div class="clearfix"></div>

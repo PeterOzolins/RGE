@@ -17,10 +17,10 @@
                                 <div class="columnLeft">
                                     <div class="clearfix">
                                     </div>
-                                    <h1><span class="iCaps">E</span>nhancements <span class="dark"><span class="iCaps">T</span>itle</span></h1>
+                                    <h1><span class="iCaps">P</span>arty <span class="dark"><span class="iCaps">E</span>nhancements...</span></h1>
                                     <hr class="enhancementsTitleLine"/>
                             <!--###########-->      
-                                    <a name="photoOp"><h3>Photo Opps! &mdash; WE GO BIG!!!</h3></a>
+                                    <a name="photoOp"><h3>Photo Booths! &mdash; WE GO BIG!!!</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-greenscreen.jpg" /></div>
@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-starpix.jpg" /></div>
-                                        <h4>Star Pix Photo Adventure</h4>
+                                        <h4>StarPix Photo Adventure</h4>
                                         <p>
                                             Choose any one of a dozen colors on a 10 ft. backdrop including hats, props, wigs, shades, bubbles, and more.  Hip photographers create unique poses for these new age Glamour Shots.  Up to 8 at a time!  Everyone takes home a cool 5X7.
                                         </p>
@@ -40,7 +40,7 @@
                                     </div>
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-photbooth.jpg" /></div>
-                                        <h4>Mega Booth</h4>
+                                        <h4>MegaBooth</h4>
                                         <p>
                                             A modern take on the old-school photobooth.  No wallet size here!  5x7 Glossys, with 4 cool pictures and a custom logo with your theme, colors, and name included.  Totally fun and great for any type of event.
                                         </p>
@@ -150,7 +150,7 @@
                                         <div class="clearfix"></div>
                                     </div>
                             <!--###########-->      
-                                    <a name="montage"><h3>Missing a Title!!!</h3></a>
+                                    <a name="montage"><h3>Montage Projection!!!</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-projector.jpg" /></div>
@@ -161,11 +161,11 @@
                                         <div class="clearfix"></div>
                                     </div>
                             <!--###########-->      
-                                    <a name="transformRoom"><h3>Transform Your Room!!!</h3></a>
+                                    <a name="transformRoom"><h3>LED Uplighting!!!</h3></a>
 
                                     <div class="columnLeftRow">
                                         <div class="rowImage"><img src="/img/enhancements-uplighting.jpg" /></div>
-                                        <h4>Uplighting</h4>
+                                        <h4>Transform your room with LED Uplighting</h4>
                                         <p>
                                             LED uplighting is the BIGGEST partyup-trend in the world.  Our designers and technicians use over 256 cool colors to create and transform your room into something your guests will remember forever.
                                         </p>
@@ -179,7 +179,7 @@
                                         <h3>Enhancements</h3>
                                         <hr>
                                         <p><a href="#photoOp">
-                                            Photo Opps
+                                            Photo Booth
                                         </a></p>
                                         <p><a href="#airbrush">
                                                 Airbrush & Glitter Tattoos
@@ -188,13 +188,13 @@
                                                 Game Stations
                                         </a></p>
                                         <p><a href="#gameShow">
-                                            Game Show
+                                            Game Show Experience
                                         </a></p>
                                         <p><a href="#montage">
-                                            Montage
+                                            Montage Projection
                                         </a></p>
                                         <p><a href="#transformRoom">
-                                            Transform your Room
+                                            LED Uplighting
                                         </a></p>
                                         
                                         <p>Montage Production</p>

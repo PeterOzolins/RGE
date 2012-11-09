@@ -38,7 +38,7 @@
                                         <h3>Pre Party! </h3>
                                         <div class="rowImage"><img src="/img/mitzPagePhotos/mitzvah-body2.jpg" /></div>
                                         <p>
-                                            GreenScreen Photos, Airbrush Artists (T-Shirts, Hats, Tattoos), Game Stations, Photobooths, Glitter Tattoos, Virtual Graffiti Wall...and more
+                                            Green Screen Photos, Airbrush Artists (T-Shirts, Hats, Tattoos), Game Stations, Photo Booths, Glitter Tattoos, Virtual Graffiti Wall...and more
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>
@@ -46,7 +46,7 @@
                                         <h3>Event Planning</h3>
                                         <div class="rowImage"><img src="img/mitzPagePhotos/mitzvah-body1.jpg" /></div>
                                         <p>
-                                            Included in your entertainment package is your PARTY EXPERT, someone assigned to your event to plan, coordinate and execute all of the elements of your party.  With all of the vendors, entertainers and experts under one roof, we make it easy.  Personal service is our #1 priority.
+                                            Included in your entertainment package is your PARTY EXPERT, someone assigned to your event to plan, coordinate and execute all of the elements of your party.  With all of the vendors, entertainers and experts under one roof, we make it easy. Personal service is our #1 priority.
                                         </p>
                                         <div class="clearfix"></div>
                                     </div>

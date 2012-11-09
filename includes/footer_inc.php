@@ -28,11 +28,11 @@
                                 Pre Party
                             </h4>
                             <p>
+                                Photo Booths<br>
                                 Airbrush & Glitter Tatoos<br>
                                 Airbrush Shirts & Hats<br>
                                 Game Stations<br>
-                                GreenScreen Photos<br>
-                                Photobooths<br>
+                                Green Screen Photos<br>
                                 Giveaways<br>
                                 Montage Projection<br>
                                 LED Lighting
