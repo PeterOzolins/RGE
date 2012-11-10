@@ -32,10 +32,10 @@
 
                                     </li>
                                     <li>
-                                        <a href="#" class="pgShoutOuts">SHOUT OUTS</a>
+                                        <a href="#" class="pgShoutOuts deadLink">SHOUT OUTS</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="pgContact">CONTACT</a>
+                                        <a href="#" class="pgContact deadLink">CONTACT</a>
                                     </li>
                                 </ul>
                             </div>

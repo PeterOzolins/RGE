@@ -1,41 +1,41 @@
                     <div id="footer">
-                        <div>
+                        <div class="menu">
                             <h4>
                                 About Real Genius
                             </h4>
                             <p>
-                                The Performers<br>
+                                <a href="performers.php">The Performers</a><br>
                                 What We Do<br>
                                 Shout-Outs<br>
                                 Contact Us
                             </p>
                         </div>
-                        <div>
+                        <div class="menu">
                             <h4>
                                 Events
                             </h4>
                             <p>
-                                Mitzvahs<br>
-                                Weddings<br>
+                                <a href="/mitzvah.php">Bar &amp; Bat-Mitzvahs</a><br>
+                                <a href="/wedding.php">Weddings</a><br>
                                 Corporate<br>
                                 Birthdays<br>
                                 Schools<br>
                                 Wrap Parties
                             </p>
                         </div>
-                        <div>
+                        <div class="menu">
                             <h4>
                                 Pre Party
                             </h4>
                             <p>
-                                Photo Booths<br>
-                                Airbrush & Glitter Tatoos<br>
+                                <a href="/enhancements.php#photoOp">Photo Booths</a><br>
+                                <a href="/enhancements.php#airbrush">Airbrush &amp; Glitter Tattoos</a><br>
                                 Airbrush Shirts & Hats<br>
-                                Game Stations<br>
+                                <a href="/enhancements.php#gameStations">Game Stations</a><br>
                                 Green Screen Photos<br>
                                 Giveaways<br>
-                                Montage Projection<br>
-                                LED Lighting
+                                <a href="/enhancements.php#">Montage Production</a><br>
+                                <a href="/enhancements.php#transformRoom">LED Lighting</a>
                             </p>
                         </div>
                         <div>
@@ -48,7 +48,7 @@
                                 Mon - Fri 10am - Late
                             </p>
                             <ul class="socialIcons">
-                                <li><img src="img/footer_imgs/icon-fb.png" /></li>
+                                <li><a href="http://www.facebook.com/RealGeniusDJs" target="_blank"><img src="img/footer_imgs/icon-fb.png" /></a></li>
                                 <li><img src="img/footer_imgs/icon-tw.png" /></li>
                                 <li><img src="img/footer_imgs/icon-yt.png" /></li>
                             </ul>

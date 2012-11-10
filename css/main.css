@@ -185,6 +185,9 @@ h2 .iCaps {
     color: #fff;
     margin: 0 auto;
 }
+.deadLink {
+    cursor: default !important;
+}
 #headerImage {
     width: 1000px;
     margin: 0 auto;
@@ -536,6 +539,15 @@ h2 .iCaps {
     background-image: url(/img/footer_imgs/bottom-swirl.png);
     background-repeat: no-repeat;
     background-position: 625px 7px;
+}
+#footer a {
+    color: #ccc;
+    text-decoration: none;
+    position: absolute;
+}
+#footer .menu a:hover {
+    color: #444;
+    padding-left: 10px;
 }
 #footer div {
     float: left;
