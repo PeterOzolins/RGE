@@ -546,8 +546,7 @@ h2 .iCaps {
     position: absolute;
 }
 #footer .menu a:hover {
-    color: #444;
-    padding-left: 10px;
+    color: #888;
 }
 #footer div {
     float: left;
