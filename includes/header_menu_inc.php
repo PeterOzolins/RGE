@@ -32,7 +32,7 @@
 
                                     </li>
                                     <li>
-                                        <a href="#" class="pgShoutOuts deadLink">SHOUT OUTS</a>
+                                        <a href="shoutout.php" class="pgShoutOuts">SHOUT OUTS</a>
                                     </li>
                                     <li>
                                         <a href="#" class="pgContact deadLink">CONTACT</a>
