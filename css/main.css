@@ -543,7 +543,6 @@ h2 .iCaps {
 #footer a {
     color: #ccc;
     text-decoration: none;
-    position: absolute;
 }
 #footer .menu a:hover {
     color: #888;
