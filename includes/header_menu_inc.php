@@ -35,7 +35,7 @@
                                         <a href="shoutout.php" class="pgShoutOuts">SHOUT OUTS</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="pgContact deadLink">CONTACT</a>
+                                        <a href="contact.php" class="pgContact">CONTACT</a>
                                     </li>
                                 </ul>
                             </div>
