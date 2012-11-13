@@ -28,7 +28,7 @@
 
                                     <div class="columnLeftRow">
                                         <h3>The Party!</h3>
-                                        <div class="rowImage"><img src="img/mitzPagePhotos/mitzvah-body1.jpg" /></div>
+                                        <div class="rowImage"><img src="img/newMitzvahImgs/mitzvah-body1.jpg" /></div>
                                         <p>
                                             MC’s, Pro-DJs, Interactive Dancers, Light Shows, Uplighting, Montages, Video Projection, Giveaways, Games and Free Event Planning
                                         </p>
@@ -36,7 +36,7 @@
                                     </div>
                                     <div class="columnLeftRow">
                                         <h3>Pre Party! </h3>
-                                        <div class="rowImage"><img src="/img/mitzPagePhotos/mitzvah-body2.jpg" /></div>
+                                        <div class="rowImage"><img src="/img/newMitzvahImgs/mitzvah-body2.jpg" /></div>
                                         <p>
                                             Green Screen Photos, Airbrush Artists (T-Shirts, Hats, Tattoos), Game Stations, Photo Booths, Glitter Tattoos, Virtual Graffiti Wall...and more
                                         </p>
@@ -44,7 +44,7 @@
                                     </div>
                                     <div class="columnLeftRow">
                                         <h3>Event Planning</h3>
-                                        <div class="rowImage"><img src="img/mitzPagePhotos/mitzvah-body1.jpg" /></div>
+                                        <div class="rowImage"><img src="img/newMitzvahImgs/mitzvah-body3.jpg" /></div>
                                         <p>
                                             Included in your entertainment package is your PARTY EXPERT, someone assigned to your event to plan, coordinate and execute all of the elements of your party.  With all of the vendors, entertainers and experts under one roof, we make it easy. Personal service is our #1 priority.
                                         </p>
