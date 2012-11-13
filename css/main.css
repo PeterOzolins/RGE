@@ -321,16 +321,16 @@ h2 .iCaps {
     border: 1px solid red;
 }
 .contentBottomBoxes .mitzvahs {
-    background: url(/img/home-mitzvah.png);    
+    background: url(/img/newHomeImgs/home-mitzvahs.jpg);    
 }
 .contentBottomBoxes .weddings {
-    background: url(/img/home-weddings.png);
+    background: url(/img/newHomeImgs/home-wedding.jpg);
 }
 .contentBottomBoxes .corporate {
-    background: url(/img/home-corporate.png);
+    background: url(/img/newHomeImgs/home-corporate.jpg);
 }
 .contentBottomBoxes .specialEvents{
-    background: url(/img/home-special-event.png);
+    background: url(/img/newHomeImgs/home-special-events.jpg);
 }
 #contentBottomEdge {
     height: 75px;
