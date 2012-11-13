@@ -171,10 +171,9 @@ h2 .iCaps {
 
 #slideshowIframe {
     width: 452px;
-    height: 254px;
+    height: 256px;
     right: 100px;
     position: absolute;
-    margin-top: 2px;
 }
 #bodyContainer {
     width: 100%;
