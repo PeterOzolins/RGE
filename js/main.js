@@ -27,6 +27,12 @@ $(document).ready(function() {
 				break;
 			case "enhancements.php":
 				$("a.pgEnhancements").addClass("active");
+				break;
+			case "shoutout.php":
+				$("a.pgShoutOuts").addClass("active");
+				break;
+			case "contact.php":
+				$("a.pgContact").addClass("active");
 		}
 
 	//###### CUSTOM SMALLCAPS FOR HEADINGS ######
