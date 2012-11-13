@@ -19,8 +19,8 @@
                                      <div class="clearfix"> 
                                     </div>
                                     <h1><span class="iCaps">C</span>ontact <span class="dark"><span class="iCaps">U</span>s...</span></h1>
-                                    <hr class="enhancementsTitleLine"/>
-
+                                    <hr />
+                                    <p>We are located in Southern California somewhere...</p>
                                     <?php include('includes/requestQuote_inc.php'); ?>    
 
                                 </div>
@@ -28,9 +28,9 @@
                                 <!-- ##end left column / start right column -->
 
                                 <div class="columnRight">
-                                    <div class="sideBox ">
+                                    <!-- <div class="sideBox ">
                                         <p>Some stuff like an address or something like that you know...</p>
-                                    </div>
+                                    </div> -->
                                 </div>
 
                                 <div class="clearfix"></div>
