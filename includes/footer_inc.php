@@ -6,8 +6,8 @@
                             <p>
                                 <a href="performers.php">The Performers</a><br>
                                 What We Do<br>
-                                Shout-Outs<br>
-                                Contact Us
+                                <a href="shoutout.php">Shout-Outs</a><br>
+                                <a href="contact.php">Contact Us</a>
                             </p>
                         </div>
                         <div class="menu">
