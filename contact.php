@@ -14,21 +14,23 @@
                         <!-- ### -->
                         <div id="contentContainer">
                             <div id="contentContainerInner">
+                                <div class="clearfix"></div>
                                 <div class="columnLeft">
-                                    <div class="clearfix">
+                                     <div class="clearfix"> 
                                     </div>
-                                    <h1><span class="iCaps">C</span>ontact <span class="dark"><span class="iCaps">M</span>e...</span></h1>
+                                    <h1><span class="iCaps">C</span>ontact <span class="dark"><span class="iCaps">U</span>s...</span></h1>
                                     <hr class="enhancementsTitleLine"/>
-                            <!--###########-->      
-                                    <h3>Contact Form Here...</h3>
 
-                                        <div class="clearfix"></div>
+                                    <?php include('includes/requestQuote_inc.php'); ?>    
+
                                 </div>
                             <!--###########-->      
                                 <!-- ##end left column / start right column -->
 
                                 <div class="columnRight">
-                                    <!-- inside right column -->
+                                    <div class="sideBox ">
+                                        <p>Some stuff like an address or something like that you know...</p>
+                                    </div>
                                 </div>
 
                                 <div class="clearfix"></div>
