@@ -142,13 +142,14 @@ body {
 	z-index:500;
 	position:absolute;
 	bottom:-35px;
-	padding: 4px 4px 2px 5px;
+	padding: 5px 4px 6px 6px;
 	background:#000;
 	background: rgba(0,0,0,0.6);
 	font-size: 1.2em;
 	line-height: 1.1;
 	color: #bbb;
 	text-shadow:none;
+	min-height: 18px;
 }
 
 /*
