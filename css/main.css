@@ -196,10 +196,7 @@ h2 .iCaps {
     width: 100%;
     background-color: #000;
 }
-#headerTop {
-    width: 1000px;
-    color: #fff;
-    margin: 0 auto;
+
 }
 .deadLink {
     cursor: default !important;

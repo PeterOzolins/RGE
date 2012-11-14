@@ -63,6 +63,13 @@ body {
 	Set to display none, prevents content flash
 */
 
+/*	CUSTOM STUFF FOR SLIDESHOW */
+.slideQuoteName {
+    font-weight: normal;
+    color: #bbb;
+}
+/* END */
+
 .slides_container {
 	width: 450px;
 	overflow:hidden;
@@ -147,9 +154,10 @@ body {
 	background: rgba(0,0,0,0.6);
 	font-size: 1.2em;
 	line-height: 1.1;
-	color: #bbb;
+	color: #ddd;
 	text-shadow:none;
 	min-height: 18px;
+	font-weight: bold;
 }
 
 /*
