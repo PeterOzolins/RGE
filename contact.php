@@ -28,7 +28,7 @@
                                                 <h5>Office Hours</h5>
                                             </td>
                                             <td>
-                                                <p><strong>Monday &mdash; Thursday</strong> 10AM-5:30pm <br><strong>Friday</strong>  10AM-2pm</p>
+                                                <p><strong>Monday &mdash; Thursday</strong> 10am-5:30pm <br><strong>Friday</strong>  10am-2pm</p>
                                             </td>
                                         </tr>
                                         <tr>
