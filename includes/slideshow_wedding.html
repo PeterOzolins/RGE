@@ -22,15 +22,15 @@
 			$('#slides').slides({
 				preload: true,
 				preloadImage: 'img/ss_img/loading.gif',
-				play: 8000,
+				play: 16000,
 				pause: 500,
-				hoverPause: true,
-				slideSpeed: 800,
-				fadeSpeed: 500,
+				hoverPause: false,
+				slideSpeed: 900,
+				fadeSpeed: 400,
 				animationStart: function(current){
 					$('.caption').animate({
-						bottom:-120 //how far down caption slides when changing
-					},200); //rate caption slides down
+						bottom:-120 //how far down caption slide when changing
+					},100); //time it takes caption to slide down
 					if (window.console && console.log) {
 						// example return of current slide number
 						console.log('animationStart on slide: ', current);
@@ -62,27 +62,39 @@
 					<div class="slide">
 						<img src="/img/ss_img/wedding-slide1.jpg" width="450" height="240" alt="Slide 1">
 						<div class="caption" style="bottom:0">
-							<p>If you want your wedding to be the party of the year, look no further than Randy at Real genius Entertainment.  He made our party the WEDDING OF THE CENTURY!!! Non-stop music, fun, dancing, and an all around AWESOME time.<br>
-								&mdash;Andrew and Jennifer K.</p>
+							<p>
+								If you want your wedding to be the party of the year, look no further than Randy at Real genius Entertainment.  He made our party the WEDDING OF THE CENTURY!!! Non-stop music, fun, dancing, and an all around AWESOME time.
+								<sapn class="slideQuoteName">
+									&mdash;Andrew and Jennifer K.
+								</span>
+							</p>
 						</div>
 					</div>
 					<div class="slide">
 						<img src="/img/ss_img/wedding-slide4.jpg" width="450" height="240" alt="Slide 2">
 						<div class="caption">
-							<p>I just wanted to thank you for your services on our wedding and providing the best MC & DJ EVER!!!  Jordan and Matt were amazing the entire night!  Every single guest was up there dancing and there was never a dull moment.  I can’t tell you the number of guests still calling and telling us how much fun they had.<br>
-								&mdash;John and Melanie W.</p>
+							<p>
+								I just wanted to thank you for your services on our wedding and providing the best MC &amp; DJ EVER!!!  Jordan and Matt were amazing the entire night!  Every single guest was up there dancing and there was never a dull moment.  I can’t tell you the number of guests still calling and telling us how much fun they had.
+								<sapn class="slideQuoteName">
+									&mdash;John and Melanie W.
+								</span>
+							</p>
 						</div>
 					</div>
 					<div class="slide">
 						<img src="/img/ss_img/wedding-slide1.jpg" width="450" height="240" alt="Slide 1">
 						<div class="caption" style="bottom:0">
-							<p>Real Genius did a stellar job for our wedding of 200 people. Seriously, even our wedding planner was "wowed" at how many people got up and danced throughout the night. They kept the pace going and there were so many great memories --The party was set up to be fun from the start (and stayed that way). </p>
+							<p>
+								Real Genius did a stellar job for our wedding of 200 people. Seriously, even our wedding planner was "wowed" at how many people got up and danced throughout the night. They kept the pace going and there were so many great memories&mdash;The party was set up to be fun from the start (and stayed that way). 
+							</p>
 						</div>
 					</div>
 					<div class="slide">
 						<img src="/img/ss_img/wedding-slide1.jpg" width="450" height="240" alt="Slide 1">
 						<div class="caption" style="bottom:0">
-							<p>I will admit it -- one of the biggest arguments I had with my now-husband was over whether we wanted to have an "entertainer" for a DJ. I'm now grateful that I caved -- Real Genius Entertainment was terrific. Randy was fantastic...</p>
+							<p>
+								I will admit it&mdash;one of the biggest arguments I had with my now-husband was over whether we wanted to have an "entertainer" for a DJ. I'm now grateful that I caved&mdash;Real Genius Entertainment was terrific. Randy was fantastic...
+							</p>
 						</div>
 					</div>
 				</div>

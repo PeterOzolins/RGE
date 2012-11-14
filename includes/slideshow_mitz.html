@@ -22,15 +22,15 @@
 			$('#slides').slides({
 				preload: true,
 				preloadImage: 'img/ss_img/loading.gif',
-				play: 8000,
+				play: 16000,
 				pause: 500,
-				hoverPause: true,
-				slideSpeed: 800,
-				fadeSpeed: 500,
+				hoverPause: false,
+				slideSpeed: 900,
+				fadeSpeed: 400,
 				animationStart: function(current){
 					$('.caption').animate({
-						bottom:-120 //how far down caption slides when changing
-					},200); //rate caption slides down
+						bottom:-120 //how far down caption slide when changing
+					},100); //time it takes caption to slide down
 					if (window.console && console.log) {
 						// example return of current slide number
 						console.log('animationStart on slide: ', current);
@@ -64,7 +64,7 @@
 						<img src="/img/ss_img/mitz/mitzvah-slide1.jpg" width="450" height="240" alt="Slide 1">
 						<div class="caption" style="bottom:0">
 							<p>
-								"Wow! What a night! A quote from my boss was 'This was the PARTY OF THE CENTURY!'" 
+								"Wow! What a night! My boss says 'This was the PARTY OF THE CENTURY!'" 
 								<span class="slideQuoteName">
 									&mdash;Your #1 Fans Jackie, Mark, &amp; Brian O
 								</span>
