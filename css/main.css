@@ -503,16 +503,22 @@ h2 .iCaps {
 .columnLeftRow {
     margin-bottom: 20px;
 
+    clear: both;
 }
 .columnLeftRow p {
     margin: 0;
     font-size: 0.9em;
 }
+
+
 .rowImage {
     float: left;
     margin-right: 15px;
     background-color: grey;
     border: 1px solid grey;
+}
+.evenRow {
+    float: right;
 }
 .columnRight {
     float: right;

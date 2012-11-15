@@ -16,10 +16,12 @@
                             <div id="contentContainerInner">
                                 <div class="columnLeft">
                                     <div class="clearfix"></div>
-                                    <h1><span class="iCaps">S</span>hout <span class="dark"><span class="iCaps">O</span>ut...</span></h1>
+                                    <h1><span class="iCaps">S</span>hout <span class="dark"><span class="iCaps">O</span>uts...</span></h1>
                                     <hr class="enhancementsTitleLine"/>
-                            <!--###########-->      
+                            <!--###########--> 
+                                    <!-- ## 1 ## -->     
                                     <div class="columnLeftRow">
+                                        <div class="rowImage"><img src="/img/shoutOutImgs/so1.jpg" /></div>
                                         <h3 class="small">
                                             Randy & Crew!!!
                                         </h3>
@@ -34,8 +36,19 @@
                                         </p>
                                         <p><em>&mdash;Tami W.</em></p>
                                     </div>
-
+                                    <!-- ## 2 wed ## -->
                                     <div class="columnLeftRow">
+                                        <div class="rowImage evenRow"><img src="/img/shoutOutImgs/so91.jpg" /></div>
+                                        <p>
+                                            If you want your wedding to be the party of the year, look no further than Randy at Real genius Entertainment.  He made our party the WEDDING OF THE CENTURY!!! Non-stop music, fun, dancing, and an all around AWESOME time.
+                                        </p>
+                                        <p><em>
+                                            &mdash;Andrew and Jennifer K.
+                                        </em></p>
+                                    </div>
+                                    <!-- ## 3 ## -->
+                                    <div class="columnLeftRow">
+                                        <div class="rowImage"><img src="/img/shoutOutImgs/so2.jpg" /></div>
                                         <h3 class="small">
                                             Dear Randy:
                                         </h3>
@@ -47,7 +60,19 @@
                                             &mdash;Laurie and Doug L.
                                         </em></p>
                                     </div>
+                                    <!-- ## 4 wed ## -->
                                     <div class="columnLeftRow">
+                                        <div class="rowImage evenRow"><img src="/img/shoutOutImgs/so9.jpg" /></div>
+                                        <p>
+                                            I just wanted to thank you for your services on our wedding and providing the best MC &amp; DJ EVER!!!  Jordan and Matt were amazing the entire night!  Every single guest was up there dancing and there was never a dull moment.  I can’t tell you the number of guests still calling and telling us how much fun they had.
+                                        </p>
+                                        <p><em>
+                                            &mdash;John and Melanie W.
+                                        </em></p>
+                                    </div>
+                                    <!-- ## 5 ## -->
+                                    <div class="columnLeftRow">
+                                        <div class="rowImage"><img src="/img/shoutOutImgs/so3.jpg" /></div>
                                         <h3 class="small">
                                             Dear Randy:
                                         </h3>
@@ -59,7 +84,9 @@
                                             &mdash;Nancy. A
                                         </em></p>
                                     </div>
+                                    <!-- ## 6 ## -->
                                     <div class="columnLeftRow">
+                                        <div class="rowImage evenRow"><img src="/img/shoutOutImgs/so4.jpg" /></div>
                                         <h3 class="small">
                                             Dear Randy
                                         </h3>
@@ -71,7 +98,9 @@
                                             &mdash;Randi G.
                                         </em></p>
                                     </div>
+                                    <!-- ## 7 ## -->
                                     <div class="columnLeftRow">
+                                        <div class="rowImage"><img src="/img/shoutOutImgs/so5.jpg" /></div>
                                         <h3 class="small">
                                             Wow!!! 
                                         </h3>
@@ -85,7 +114,9 @@
                                             &mdash;Your #1 Fans  Jackie, Mark, and Brian O.
                                         </em></p>
                                     </div>
+                                    <!-- ## 8 ## -->
                                     <div class="columnLeftRow">
+                                        <div class="rowImage evenRow"><img src="/img/shoutOutImgs/so6.jpg" /></div>
                                         <h3 class="small">
                                             I wanted to thank you 
                                         </h3>
@@ -97,12 +128,14 @@
                                             &mdash;Florence S.
                                         </em></p>
                                     </div>
+                                    <!-- ## 9 ## -->
                                     <div class="columnLeftRow">
+                                        <div class="rowImage"><img src="/img/shoutOutImgs/so7w.jpg" /></div>
                                         <h3 class="small">
-                                            Randy:
+                                            What a fantastic evening
                                         </h3> 
                                         <p>
-                                            What a fantastic evening--thanks to you and your entire team!  I know the Bar-Mitzvah was in good hands from our very first meeting.  From start to finish, you brought the fun, you made the atmosphere, and you helped make the event so memorable for me and all our family and friends.
+                                            Thanks to you and your entire team!  I know the Bar-Mitzvah was in good hands from our very first meeting.  From start to finish, you brought the fun, you made the atmosphere, and you helped make the event so memorable for me and all our family and friends.
                                         </p>
                                         <p>
                                             Thanks for everything!  I have already recommended Real Genius Entertainment to numerous parents.
@@ -112,7 +145,9 @@
                                             Sharon L.
                                         </em></p>
                                     </div>
+                                    <!-- ## 10 ## -->
                                     <div class="columnLeftRow">
+                                        <div class="rowImage evenRow"><img src="/img/shoutOutImgs/so8.jpg" /></div>
                                         <h3 class="small">
                                             Simply Stated:
                                         </h3>
