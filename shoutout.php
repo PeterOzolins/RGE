@@ -15,191 +15,123 @@
                         <div id="contentContainer">
                             <div id="contentContainerInner">
                                 <div class="columnLeft">
-                                    <div class="clearfix">
-                                    </div>
+                                    <div class="clearfix"></div>
                                     <h1><span class="iCaps">S</span>hout <span class="dark"><span class="iCaps">O</span>ut...</span></h1>
                                     <hr class="enhancementsTitleLine"/>
                             <!--###########-->      
-                                    <a name="photoOp"><h3>Lalalalala ...you can't hear me!</h3></a>
-
                                     <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-greenscreen.jpg" /></div>
-                                        <h4>Green Screen</h4>
+                                        <h3 class="small">
+                                            Randy & Crew!!!
+                                        </h3>
                                         <p>
-                                            Unlimited 5x7 glossy photos featuring your choice of over 400 amazing backgrounds and counting!  Magazine Covers, Movie Posters, Sports, Celebrities, Exotic locations and more...Always delievered to your guests in professional looking photo jackets.
+                                            I just wanted to tell you i thought you were superb!
                                         </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-starpix.jpg" /></div>
-                                        <h4>StarPix Photo Adventure</h4>
                                         <p>
-                                            Choose any one of a dozen colors on a 10 ft. backdrop including hats, props, wigs, shades, bubbles, and more.  Hip photographers create unique poses for these new age Glamour Shots.  Up to 8 at a time!  Everyone takes home a cool 5X7.
+                                            You brought your "A game" in every way! David and I were so happy with the whole evening&mdash;How you read the crowd, Hayley and everything. It was such a pleasure working with you in every way.
                                         </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-photbooth.jpg" /></div>
-                                        <h4>MegaBooth</h4>
                                         <p>
-                                            A modern take on the old-school photobooth.  No wallet size here!  5x7 Glossys, with 4 cool pictures and a custom logo with your theme, colors, and name included.  Totally fun and great for any type of event.
+                                            Thank you for making it such a wonderful, memorable experience. Can't wait for Aaron's in December.
                                         </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <hr class="enhancementsTitleLine">
-                            <!--###########-->      
-                                    <a name="airbrush"><h3>Art &amp; Airbrush - Unique Style Every Time!</h3></a>
-
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="img/enhancements-airbrush1.jpg" /></div>
-                                        <h4>Airbrush Tattoos</h4>
-                                        <p>
-                                            Tons of cool themes to choose from!  Our super-talented airbrush artists spray multi-colored designs anywhere you want...Quick to dry and long-lasting, this goodie is fun for all ages.
-                                        </p>
-                                        <div class="clearfix"></div>
+                                        <p><em>&mdash;Tami W.</em></p>
                                     </div>
 
                                     <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-airbrush2.jpg" /></div>
-                                        <h4>Airbrush T-Shirts, Hats, Boxers, Tanks, etc.</h4>
+                                        <h3 class="small">
+                                            Dear Randy:
+                                        </h3>
                                         <p>
-                                            Our awesome airbrush artists create items with flare for all of your guests to take home as a souvenir from your event.  Each item is custom designed to your specifications.
+                                            I just want to thank you and Jordan for putting together such a great Bat Mitzvah for our daughter, Dani. It really was terrific. Jordan and Paulette did an amazing job. All of the kids had a great time and the party was non-stop for four hours. We will certainly recommend Jordan to all of our friends. He was the best we have ever seen.
                                         </p>
-                                        <div class="clearfix"></div>
+                                        <p><em>
+                                            Best,<br>
+                                            &mdash;Laurie and Doug L.
+                                        </em></p>
                                     </div>
-                                    <hr class="enhancementsTitleLine">
-                            <!--###########-->      
-                                    <a name="gameStations"><h3>Game Stations - Start Your Engines!</h3></a>
+                                    <div class="columnLeftRow">
+                                        <h3 class="small">
+                                            Dear Randy:
+                                        </h3>
+                                        <p>
+                                            Vince and Matt from Real Genius Entertainment were the best at my daughter's Bat Mitzvah last night!! We had a blast because they were soooo much fun! From my daughters friends to my friends, from the youngest to the oldest, we were on the dance floor all night, literally, "having the time of our lives!" Thanks so much to Randy for helping to plan the party and I'm ready to do it all over again tonight!!!! 7 pm work for you guys? Thanks again, we'll never forget Dana's Bat Mitzvah!!!!
+                                        </p>
+                                        <p><em>
+                                            Sincerely,<br>
+                                            &mdash;Nancy. A
+                                        </em></p>
+                                    </div>
+                                    <div class="columnLeftRow">
+                                        <h3 class="small">
+                                            Dear Randy
+                                        </h3>
+                                        <p>
+                                            I can't say enough great things about you and your team!  You guys truly ROCK!  You appealed to everyone, from the youngest to the oldest and everyone in between. You got us all up and dancing without being obnoxious and annoying&mdash;just ENERGETIC and ENTHUSIASTIC. Your dancers were friendly and talented and I loved how they hugged the kids when they left.  Dealing with you and your IMMENSE PROFESSIONALISM  was a pleasure; then watching you and your team rise to top and hearing all my guests RAVE about you.  You deserve all their praise...and ours.  Can't wait until 2013!
+                                        </p>
+                                        <p><em>
+                                            Best<br>
+                                            &mdash;Randi G.
+                                        </em></p>
+                                    </div>
+                                    <div class="columnLeftRow">
+                                        <h3 class="small">
+                                            Wow!!! 
+                                        </h3>
+                                        <p>
+                                            What a night! It has been a few months since Brian’s Bar-Mitzvah and guests are still talking about the party. I knew from the minute I met you that you were the one for Brian’s party!  The guests did not stop dancing all night.  A quote from my boss was “THIS IS THE PARTY OF THE CENTURY!”
+                                        </p>
+                                        <p>
+                                            Your professionalism and MC talents are over the top! The flow and timing of the party were perfect.  You didn’t miss a beat.  Randy, you are absolutely amazing and we can’t THANK YOU enough!
+                                        </p>
+                                        <p><em>
+                                            &mdash;Your #1 Fans  Jackie, Mark, and Brian O.
+                                        </em></p>
+                                    </div>
+                                    <div class="columnLeftRow">
+                                        <h3 class="small">
+                                            I wanted to thank you 
+                                        </h3>
+                                        <p>
+                                            for the wonderful job you and your entertainers did to make Jasmine's Bat Mitzvah a memorable event in our lives. Everyone, family and friends, had a fabulous time. Our guests were up on the floor, dancing continually , throughout the night, having non stop fun. You and your staff had kids and adults in constant motion from the very beginning of the party until the very last minute. I can assure you that you will be the first name I recommend when anyone is looking for a DJ, entertainer or party consultant.
+                                        </p>
+                                        <p><em>
+                                            Best regards<br>
+                                            &mdash;Florence S.
+                                        </em></p>
+                                    </div>
+                                    <div class="columnLeftRow">
+                                        <h3 class="small">
+                                            Randy:
+                                        </h3> 
+                                        <p>
+                                            What a fantastic evening--thanks to you and your entire team!  I know the Bar-Mitzvah was in good hands from our very first meeting.  From start to finish, you brought the fun, you made the atmosphere, and you helped make the event so memorable for me and all our family and friends.
+                                        </p>
+                                        <p>
+                                            Thanks for everything!  I have already recommended Real Genius Entertainment to numerous parents.
+                                        </p>
+                                        <p><em>
+                                            All the best<br>
+                                            Sharon L.
+                                        </em></p>
+                                    </div>
+                                    <div class="columnLeftRow">
+                                        <h3 class="small">
+                                            Simply Stated:
+                                        </h3>
+                                        <p>
+                                            You were FANTASTIC!  Big thanks go to you and your crew for providing a fantastic night of entertainment for Adam’s party SAturday night.  The music was the right mix of modern songs for the kids and more traditional stuff for the adults.  We also loved your humor! It has been an absolute pleasure working with you.  You are A REAL PRO.
+                                        </p>
+                                        <p><em>
+                                            Gratefully,<br>
+                                            &mdash;Barry and Nancy Z.
+                                        </em></p>
+                                    </div>
 
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="img/enhancements-guitar-hero.jpg" /></div>
-                                        <h4>Guitar Hero</h4>
-                                        <p>
-                                            Kick start your party by playing your favorite rock hits in front of all of your biggest fans! Tons of songs to choose from. (2 players).
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
 
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-mario-cart.jpg" /></div>
-                                        <h4>Mario Kart</h4>
-                                        <p>
-                                            Our #1 Seller!  Kids of any age can burn up the road on 40 different courses using your favorire Mario characters  (4 players)
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-rock-band.jpg" /></div>
-                                        <h4>Rockband</h4>
-                                        <p>
-                                            Get ready to be famous!  Guitar, drums, & micrphone.  Up to 4, 'Rock Out' in front of a live audience!  (2-4 players)
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-wii.jpg" /></div>
-                                        <h4>Wii Sports</h4>
-                                        <p>
-                                            A multi-game with Tennis, Bowling, Golf, Boxing, and Baseball.  Completely interactive and fun for all ages!  (4 players)
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-mj.jpg" /></div>
-                                        <h4>Michael Jackson Experience</h4>
-                                        <p>
-                                            MJ's 25 greatest hits have been brought to life, as you move your whole body and dance to the beat as you follow the King of Pop!  (4 players)
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-just-dance.jpg" /></div>
-                                        <h4>Just Dance  Top POP HITS</h4>
-                                        <p>
-                                            Make this game a smash!  Dance to the beat, battle your partner, and see who has the best moves to the newest music around!  (4 players)
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-resort.jpg" /></div>
-                                        <h4>Wii Sports Resort</h4>
-                                        <p>
-                                            The sequel to Wii Sports has you on vacation playing Ping Pong, Frisbee, 3-point Shootout, and 12 other cool games!  (4 players)
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-ddr.jpg" /></div>
-                                        <h4>Dance Dance Revolution</h4>
-                                        <p>
-                                            Tap your feet to the beat against your opponent to see who's got what it takes!  The original DDR with mega-dance-pads!  (2 players)
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <hr class="enhancementsTitleLine">
-                            <!--###########-->      
-                                    <a name="gameShow"><h3>Game Show Experience</h3></a>
-
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-game-show.jpg" /></div>
-                                        <h4>For KIDS & ADULTS!</h4>
-                                        <p>
-                                            Questions in every category!!!<br />Extra large HIT buttons, Neon Arrows, Bells, Buzzers, Sound Effects, 2 Microphones, and HUGE score numbers for everyone to see, make this the REAL DEAL!
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                            <!--###########-->      
-                                    <a name="montage"><h3>Montage Projection!!!</h3></a>
-
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-projector.jpg" /></div>
-                                        <h4>Montage Projection</h4>
-                                        <p>
-                                            Using a larger than life Real Genius 10 foot stretchable projection screen our technician uses state of the art equipment (DVD player & projector), cables, and expertise to show your montage to all of your guests.
-                                        </p>
-                                        <div class="clearfix"></div>
-                                    </div>
-                            <!--###########-->      
-                                    <a name="transformRoom"><h3>LED Uplighting!!!</h3></a>
-
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/enhancements-uplighting.jpg" /></div>
-                                        <h4>Transform your room with LED Uplighting</h4>
-                                        <p>
-                                            LED uplighting is the BIGGEST partyup-trend in the world.  Our designers and technicians use over 256 cool colors to create and transform your room into something your guests will remember forever.
-                                        </p>
-                                    </div>
                                 </div>
                             <!--###########-->      
                                 <!-- ##end left column / start right column -->
 
                                 <div class="columnRight">
-                                    <div class="sideBox enhanceMenu">
-                                        <h3>Enhancements</h3>
-                                        <hr>
-                                        <p><a href="#photoOp">
-                                            Photo Booth
-                                        </a></p>
-                                        <p><a href="#airbrush">
-                                                Airbrush & Glitter Tattoos
-                                        </a></p>
-                                        <p><a href="#gameStations">
-                                                Game Stations
-                                        </a></p>
-                                        <p><a href="#gameShow">
-                                            Game Show Experience
-                                        </a></p>
-                                        <p><a href="#montage">
-                                            Montage Projection
-                                        </a></p>
-                                        <p><a href="#transformRoom">
-                                            LED Uplighting
-                                        </a></p>
-                                        
-                                        <p>Montage Production</p>
-                                        <p>LED Lighting</p>
-                                    </div>
+                                    <?php include('includes/requestQuote_inc.php'); ?>
 
                                 </div>
                                 <div class="clearfix"></div>

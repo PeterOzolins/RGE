@@ -41,11 +41,12 @@
                         <div>
                             <h4 class="contact">
                                 Get In Touch!<br>
-                                1-800-555-9999
+                                (818) 346-3428
                             </h4>
                             <p class="red">
                                 Office Hours<br>
-                                Mon - Fri 10am - Late
+                                Mon&mdash;Thr (10am&ndash;5:30pm)<br>
+                                Friday (10am&ndash;2pm)
                             </p>
                             <ul class="socialIcons">
                                 <li><a href="http://www.facebook.com/RealGeniusDJs" target="_blank"><img src="img/footer_imgs/icon-fb.png" /></a></li>
