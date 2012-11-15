@@ -27,7 +27,7 @@
                                 </div>
                                 <div id="headerBottomInnerRight">
                                     <p>
-                                        Book Your Talent Today! 1-800-555-9999
+                                        Book Your Talent Today! (818) 346-3428
                                     </p>
                                 </div>
                                 <img src="/img/home-bottom-borderline.png" id="bottomHeadBorderline">
