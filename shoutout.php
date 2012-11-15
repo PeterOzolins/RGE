@@ -36,19 +36,9 @@
                                         </p>
                                         <p><em>&mdash;Tami W.</em></p>
                                     </div>
-                                    <!-- ## 2 wed ## -->
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage evenRow"><img src="/img/shoutOutImgs/so91.jpg" /></div>
-                                        <p>
-                                            If you want your wedding to be the party of the year, look no further than Randy at Real genius Entertainment.  He made our party the WEDDING OF THE CENTURY!!! Non-stop music, fun, dancing, and an all around AWESOME time.
-                                        </p>
-                                        <p><em>
-                                            &mdash;Andrew and Jennifer K.
-                                        </em></p>
-                                    </div>
                                     <!-- ## 3 ## -->
                                     <div class="columnLeftRow">
-                                        <div class="rowImage"><img src="/img/shoutOutImgs/so2.jpg" /></div>
+                                        <div class="rowImage evenRow"><img src="/img/shoutOutImgs/so2.jpg" /></div>
                                         <h3 class="small">
                                             Dear Randy:
                                         </h3>
@@ -58,16 +48,6 @@
                                         <p><em>
                                             Best,<br>
                                             &mdash;Laurie and Doug L.
-                                        </em></p>
-                                    </div>
-                                    <!-- ## 4 wed ## -->
-                                    <div class="columnLeftRow">
-                                        <div class="rowImage evenRow"><img src="/img/shoutOutImgs/so9.jpg" /></div>
-                                        <p>
-                                            I just wanted to thank you for your services on our wedding and providing the best MC &amp; DJ EVER!!!  Jordan and Matt were amazing the entire night!  Every single guest was up there dancing and there was never a dull moment.  I can’t tell you the number of guests still calling and telling us how much fun they had.
-                                        </p>
-                                        <p><em>
-                                            &mdash;John and Melanie W.
                                         </em></p>
                                     </div>
                                     <!-- ## 5 ## -->
@@ -157,6 +137,26 @@
                                         <p><em>
                                             Gratefully,<br>
                                             &mdash;Barry and Nancy Z.
+                                        </em></p>
+                                    </div>
+                                    <!-- ## 2 wed ## -->
+                                    <div class="columnLeftRow">
+                                        <div class="rowImage"><img src="/img/shoutOutImgs/so91.jpg" /></div>
+                                        <p>
+                                            If you want your wedding to be the party of the year, look no further than Randy at Real genius Entertainment.  He made our party the WEDDING OF THE CENTURY!!! Non-stop music, fun, dancing, and an all around AWESOME time.
+                                        </p>
+                                        <p><em>
+                                            &mdash;Andrew and Jennifer K.
+                                        </em></p>
+                                    </div>
+                                    <!-- ## 4 wed ## -->
+                                    <div class="columnLeftRow">
+                                        <div class="rowImage evenRow"><img src="/img/shoutOutImgs/so9.jpg" /></div>
+                                        <p>
+                                            I just wanted to thank you for your services on our wedding and providing the best MC &amp; DJ EVER!!!  Jordan and Matt were amazing the entire night!  Every single guest was up there dancing and there was never a dull moment.  I can’t tell you the number of guests still calling and telling us how much fun they had.
+                                        </p>
+                                        <p><em>
+                                            &mdash;John and Melanie W.
                                         </em></p>
                                     </div>
 
